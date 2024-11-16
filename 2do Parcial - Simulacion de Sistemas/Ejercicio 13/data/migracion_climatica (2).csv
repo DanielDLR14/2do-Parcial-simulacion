@@ -1,0 +1,1001 @@
+eventos_climáticos_extremos,deterioro_ambiente,oportunidades_económicas,densidad_poblacional,migración_estimada,zona_riesgo,tipo_evento_climatico,región,nivel_educativo,ocupación,estado_familiar
+6,46.57,89.58,481,2203,Medio,Sequía,Sur,Secundaria,Comerciante,Soltero
+19,48.08,32.22,140,465,Bajo,Huracán,Sur,Sin educación,Desempleado,Divorciado
+14,91.85,12.52,327,8192,Medio,Huracán,Norte,Primaria,Empleado,Viudo
+10,58.71,47.43,150,4272,Bajo,Sequía,Este,Secundaria,Empleado,Soltero
+7,3.28,11.4,204,6133,Alto,Incendio,Oeste,Primaria,Obrero,Casado
+6,91.27,48.6,426,2478,Alto,Sequía,Sur,Primaria,Agricultor,Divorciado
+18,24.82,92.03,398,1305,Medio,Incendio,Norte,Primaria,Obrero,Divorciado
+10,57.76,52.08,413,5088,Alto,Sequía,Este,Primaria,Obrero,Viudo
+10,16.55,61.65,190,5769,Alto,Sequía,Este,Primaria,Obrero,Soltero
+3,3.39,15.66,222,2835,Alto,Sequía,Norte,Secundaria,Obrero,Divorciado
+7,31.15,4.37,59,9967,Alto,Huracán,Norte,Sin educación,Empleado,Divorciado
+2,78.05,11.08,277,8590,Bajo,Inundación,Oeste,Secundaria,Agricultor,Soltero
+1,27.76,59.85,314,1056,Bajo,Sequía,Norte,Secundaria,Obrero,Divorciado
+11,22.01,9.5,487,9406,Medio,Huracán,Oeste,Secundaria,Empleado,Soltero
+5,21.27,37.6,297,6723,Medio,Inundación,Oeste,Universitaria,Obrero,Soltero
+1,51.52,55.01,296,1574,Medio,Inundación,Centro,Universitaria,Comerciante,Soltero
+0,97.55,38.87,204,4560,Alto,Sequía,Este,Secundaria,Obrero,Viudo
+11,45.9,16.37,83,7102,Alto,Incendio,Este,Sin educación,Obrero,Soltero
+11,55.73,27.38,178,6496,Bajo,Incendio,Este,Secundaria,Desempleado,Soltero
+16,86.06,92.83,209,2928,Bajo,Incendio,Centro,Primaria,Comerciante,Casado
+9,53.51,67.6,138,2950,Medio,Sequía,Oeste,Universitaria,Agricultor,Casado
+15,18.45,49.6,142,3064,Bajo,Incendio,Oeste,Universitaria,Obrero,Viudo
+14,29.96,1.27,376,4694,Bajo,Huracán,Norte,Secundaria,Agricultor,Soltero
+14,30.99,99.24,290,9241,Bajo,Huracán,Centro,Secundaria,Comerciante,Casado
+18,39.73,67.15,372,6744,Bajo,Huracán,Norte,Sin educación,Obrero,Casado
+11,42.68,31.69,453,2950,Bajo,Huracán,Centro,Sin educación,Desempleado,Divorciado
+19,79.98,87.93,166,265,Medio,Inundación,Norte,Primaria,Empleado,Soltero
+2,34.94,25.84,143,1019,Medio,Huracán,Sur,Secundaria,Desempleado,Casado
+4,46.82,54.4,212,8405,Bajo,Incendio,Este,Secundaria,Desempleado,Viudo
+18,62.5,63.61,148,3604,Medio,Sequía,Este,Secundaria,Empleado,Divorciado
+6,37.77,22.11,162,1091,Alto,Incendio,Oeste,Universitaria,Empleado,Divorciado
+8,83.66,97.84,408,6147,Bajo,Huracán,Sur,Primaria,Empleado,Soltero
+6,58.75,74.82,140,3939,Alto,Inundación,Este,Sin educación,Obrero,Soltero
+17,29.4,55.78,395,1358,Medio,Huracán,Oeste,Universitaria,Agricultor,Divorciado
+3,71.41,18.06,255,7709,Medio,Sequía,Sur,Universitaria,Agricultor,Viudo
+13,52.76,5.39,66,8806,Alto,Incendio,Este,Universitaria,Empleado,Soltero
+17,53.45,32.01,323,4904,Medio,Sequía,Norte,Universitaria,Desempleado,Soltero
+8,48.11,75.32,222,167,Bajo,Sequía,Centro,Primaria,Comerciante,Divorciado
+1,49.7,26.93,165,9888,Alto,Sequía,Sur,Secundaria,Empleado,Divorciado
+19,76.54,53.96,398,5760,Bajo,Incendio,Oeste,Sin educación,Desempleado,Soltero
+14,10.3,72.79,230,4578,Alto,Huracán,Sur,Sin educación,Desempleado,Casado
+6,33.44,10.79,140,8310,Medio,Sequía,Oeste,Universitaria,Obrero,Soltero
+11,7.55,68.53,131,3621,Alto,Incendio,Sur,Universitaria,Obrero,Casado
+7,75.32,9.19,373,672,Alto,Inundación,Oeste,Primaria,Agricultor,Divorciado
+14,27.23,96.51,498,7182,Bajo,Incendio,Este,Universitaria,Agricultor,Casado
+2,89.74,48.84,163,7932,Medio,Inundación,Norte,Sin educación,Comerciante,Viudo
+13,52.66,15.07,306,5495,Bajo,Incendio,Este,Sin educación,Comerciante,Divorciado
+16,80.07,34.24,107,2358,Medio,Huracán,Norte,Secundaria,Comerciante,Soltero
+3,97.89,41.34,203,6139,Bajo,Sequía,Este,Secundaria,Comerciante,Soltero
+17,83.98,75.82,414,750,Alto,Huracán,Este,Sin educación,Desempleado,Divorciado
+7,86.7,74.34,453,5841,Bajo,Incendio,Sur,Sin educación,Desempleado,Divorciado
+3,40.8,61.19,165,6938,Medio,Sequía,Centro,Primaria,Agricultor,Viudo
+1,55.17,10.59,392,2687,Medio,Inundación,Oeste,Primaria,Obrero,Divorciado
+5,25.39,15.16,315,7976,Alto,Incendio,Oeste,Sin educación,Obrero,Soltero
+9,19.61,9.38,364,3362,Medio,Sequía,Oeste,Universitaria,Empleado,Viudo
+3,50.55,57.72,252,1438,Bajo,Inundación,Norte,Secundaria,Desempleado,Soltero
+17,59.5,87.71,90,5096,Alto,Inundación,Oeste,Sin educación,Comerciante,Casado
+11,33.93,43.38,154,5880,Medio,Huracán,Oeste,Universitaria,Comerciante,Divorciado
+1,56.94,16.08,438,2927,Medio,Incendio,Sur,Sin educación,Empleado,Casado
+9,88.75,55.8,427,5332,Bajo,Inundación,Este,Secundaria,Obrero,Soltero
+3,55.67,81.18,242,2317,Bajo,Sequía,Oeste,Secundaria,Comerciante,Casado
+13,72.08,74.17,450,3639,Alto,Inundación,Centro,Primaria,Obrero,Casado
+15,80.53,88.15,327,7945,Medio,Inundación,Oeste,Primaria,Empleado,Soltero
+14,98.87,27.79,403,9329,Bajo,Huracán,Norte,Primaria,Obrero,Soltero
+7,60.32,19.4,286,4483,Alto,Huracán,Norte,Primaria,Obrero,Divorciado
+13,80.69,87.98,474,3061,Medio,Sequía,Norte,Secundaria,Obrero,Casado
+7,96.26,65.76,270,3326,Medio,Huracán,Oeste,Universitaria,Comerciante,Viudo
+15,94.44,31.09,117,6937,Alto,Inundación,Sur,Universitaria,Agricultor,Viudo
+12,14.11,74.23,246,7131,Alto,Inundación,Centro,Universitaria,Desempleado,Soltero
+17,40.64,81.51,305,9390,Bajo,Huracán,Oeste,Sin educación,Obrero,Soltero
+14,32.4,61.5,188,9231,Medio,Inundación,Sur,Primaria,Obrero,Casado
+12,8.69,68.79,361,3816,Medio,Inundación,Sur,Primaria,Obrero,Soltero
+8,63.32,37.53,484,3514,Medio,Sequía,Oeste,Secundaria,Agricultor,Viudo
+14,73.59,53.87,198,1548,Alto,Huracán,Oeste,Secundaria,Empleado,Divorciado
+12,84.81,52.42,148,670,Bajo,Inundación,Sur,Sin educación,Comerciante,Divorciado
+0,12.28,84.8,125,3004,Medio,Huracán,Sur,Sin educación,Agricultor,Casado
+6,87.64,84.0,331,2605,Alto,Sequía,Sur,Universitaria,Obrero,Divorciado
+8,64.29,83.27,420,1017,Medio,Huracán,Oeste,Secundaria,Agricultor,Soltero
+0,70.39,1.1,452,7082,Bajo,Inundación,Sur,Primaria,Agricultor,Soltero
+11,91.06,74.95,158,7527,Medio,Huracán,Norte,Universitaria,Agricultor,Soltero
+7,62.48,75.87,237,6436,Bajo,Inundación,Oeste,Primaria,Empleado,Soltero
+10,33.59,67.84,248,1778,Bajo,Inundación,Norte,Universitaria,Desempleado,Casado
+18,82.51,75.63,352,715,Medio,Inundación,Este,Primaria,Comerciante,Divorciado
+16,36.31,84.2,376,7186,Medio,Sequía,Oeste,Sin educación,Empleado,Viudo
+7,3.42,47.03,203,4849,Bajo,Huracán,Este,Universitaria,Empleado,Divorciado
+2,83.07,50.21,89,3605,Alto,Sequía,Sur,Primaria,Desempleado,Soltero
+2,34.52,12.47,182,4629,Bajo,Huracán,Sur,Primaria,Empleado,Viudo
+0,77.38,38.54,454,1235,Medio,Sequía,Centro,Secundaria,Agricultor,Casado
+4,36.28,64.34,181,8666,Medio,Incendio,Sur,Universitaria,Agricultor,Soltero
+9,86.11,78.04,328,7326,Alto,Inundación,Este,Primaria,Obrero,Soltero
+6,21.95,21.72,411,5262,Bajo,Inundación,Sur,Secundaria,Empleado,Viudo
+8,97.45,13.78,133,306,Bajo,Sequía,Oeste,Primaria,Obrero,Casado
+6,77.98,66.3,448,4975,Bajo,Incendio,Sur,Universitaria,Comerciante,Viudo
+8,11.42,0.19,291,1419,Medio,Inundación,Centro,Sin educación,Agricultor,Casado
+7,56.58,17.84,165,1241,Bajo,Huracán,Sur,Universitaria,Comerciante,Soltero
+11,98.54,2.91,158,4727,Alto,Sequía,Este,Universitaria,Desempleado,Divorciado
+1,47.11,16.69,270,7489,Medio,Inundación,Este,Primaria,Agricultor,Soltero
+0,18.21,18.13,441,2790,Medio,Inundación,Sur,Primaria,Comerciante,Divorciado
+15,48.48,38.77,90,7423,Bajo,Sequía,Este,Universitaria,Desempleado,Divorciado
+4,51.25,40.23,417,3355,Alto,Sequía,Este,Secundaria,Comerciante,Casado
+2,74.17,87.43,196,8381,Medio,Huracán,Centro,Secundaria,Desempleado,Viudo
+11,69.88,51.01,161,5313,Medio,Huracán,Oeste,Secundaria,Desempleado,Casado
+7,40.26,72.34,152,4208,Bajo,Inundación,Centro,Primaria,Agricultor,Soltero
+2,21.8,10.41,95,3120,Bajo,Inundación,Norte,Primaria,Obrero,Viudo
+0,64.51,22.54,461,1957,Alto,Sequía,Centro,Universitaria,Desempleado,Divorciado
+2,42.17,70.29,373,9096,Bajo,Inundación,Sur,Sin educación,Desempleado,Divorciado
+4,13.23,5.28,427,9236,Alto,Inundación,Oeste,Primaria,Agricultor,Soltero
+14,90.06,48.66,320,2889,Medio,Sequía,Sur,Universitaria,Obrero,Viudo
+13,69.12,59.94,470,3975,Alto,Inundación,Norte,Universitaria,Empleado,Soltero
+2,68.32,60.21,434,7705,Alto,Inundación,Oeste,Sin educación,Empleado,Soltero
+0,82.26,2.29,244,9902,Alto,Incendio,Este,Secundaria,Obrero,Casado
+4,52.97,32.21,416,8235,Medio,Huracán,Centro,Universitaria,Comerciante,Soltero
+13,81.51,63.65,329,6155,Bajo,Sequía,Sur,Universitaria,Agricultor,Viudo
+6,49.81,14.9,332,3982,Medio,Incendio,Norte,Universitaria,Obrero,Soltero
+8,6.72,69.54,89,7275,Bajo,Huracán,Este,Secundaria,Empleado,Viudo
+14,40.52,74.59,496,7229,Alto,Huracán,Centro,Secundaria,Desempleado,Divorciado
+14,49.75,98.2,238,5121,Alto,Huracán,Este,Sin educación,Empleado,Soltero
+9,72.02,20.98,213,4835,Alto,Incendio,Centro,Primaria,Desempleado,Viudo
+12,10.66,82.51,73,2487,Alto,Incendio,Oeste,Secundaria,Agricultor,Divorciado
+18,14.0,52.03,73,6682,Alto,Huracán,Este,Primaria,Desempleado,Viudo
+6,26.37,37.35,53,9233,Bajo,Inundación,Este,Primaria,Obrero,Divorciado
+16,26.65,12.24,372,5966,Bajo,Inundación,Este,Secundaria,Desempleado,Casado
+19,73.22,73.55,339,2666,Alto,Incendio,Oeste,Universitaria,Comerciante,Soltero
+3,25.07,23.59,490,1075,Medio,Incendio,Norte,Sin educación,Obrero,Soltero
+4,63.31,37.14,482,7312,Medio,Incendio,Centro,Primaria,Agricultor,Divorciado
+6,49.43,6.25,230,9246,Alto,Huracán,Este,Universitaria,Obrero,Casado
+12,57.33,80.14,297,1362,Bajo,Inundación,Oeste,Secundaria,Comerciante,Viudo
+14,83.81,76.66,165,5147,Medio,Incendio,Norte,Primaria,Agricultor,Casado
+10,40.44,73.36,328,9235,Medio,Incendio,Centro,Primaria,Empleado,Viudo
+3,77.09,29.94,414,7482,Medio,Sequía,Oeste,Primaria,Comerciante,Viudo
+12,42.2,17.35,118,6331,Alto,Huracán,Centro,Universitaria,Agricultor,Soltero
+6,35.39,63.76,400,3427,Medio,Sequía,Este,Universitaria,Desempleado,Divorciado
+18,95.86,49.62,303,5730,Medio,Inundación,Norte,Universitaria,Obrero,Soltero
+1,18.44,17.83,230,2359,Medio,Sequía,Oeste,Primaria,Agricultor,Soltero
+9,9.03,68.59,367,1357,Medio,Sequía,Norte,Primaria,Obrero,Soltero
+12,77.1,99.11,218,564,Bajo,Sequía,Este,Sin educación,Desempleado,Viudo
+5,6.82,74.72,362,3394,Alto,Huracán,Norte,Sin educación,Agricultor,Soltero
+11,83.71,74.0,298,6874,Alto,Inundación,Norte,Universitaria,Empleado,Viudo
+11,43.72,95.03,237,7531,Bajo,Sequía,Sur,Universitaria,Comerciante,Divorciado
+19,91.55,20.29,103,1330,Bajo,Huracán,Norte,Secundaria,Agricultor,Viudo
+10,72.15,56.55,375,9176,Alto,Inundación,Centro,Universitaria,Desempleado,Viudo
+6,61.04,97.96,406,3905,Medio,Incendio,Oeste,Sin educación,Agricultor,Casado
+0,94.93,16.53,362,6519,Medio,Sequía,Sur,Sin educación,Obrero,Soltero
+0,39.66,70.03,187,5850,Alto,Inundación,Oeste,Sin educación,Agricultor,Soltero
+19,95.41,58.58,217,3956,Medio,Sequía,Oeste,Primaria,Empleado,Soltero
+12,13.5,58.65,440,3235,Bajo,Incendio,Este,Primaria,Agricultor,Soltero
+8,48.38,69.77,152,7053,Medio,Inundación,Este,Universitaria,Comerciante,Casado
+2,26.99,92.96,471,9216,Medio,Huracán,Sur,Secundaria,Agricultor,Casado
+6,53.98,78.26,134,6134,Medio,Inundación,Este,Secundaria,Obrero,Casado
+5,16.2,5.61,366,4689,Alto,Huracán,Este,Secundaria,Agricultor,Casado
+7,84.15,85.27,261,1646,Bajo,Inundación,Este,Primaria,Empleado,Soltero
+8,84.64,22.55,52,6165,Medio,Huracán,Oeste,Sin educación,Desempleado,Viudo
+4,95.52,37.69,433,1194,Alto,Incendio,Sur,Sin educación,Agricultor,Divorciado
+0,15.47,46.17,228,2511,Medio,Incendio,Oeste,Primaria,Agricultor,Casado
+18,62.33,48.09,391,2717,Bajo,Incendio,Centro,Secundaria,Comerciante,Viudo
+9,47.42,43.52,352,9054,Medio,Inundación,Oeste,Secundaria,Empleado,Casado
+11,34.44,93.74,381,4245,Bajo,Incendio,Centro,Universitaria,Desempleado,Soltero
+14,35.15,70.6,87,2875,Medio,Sequía,Norte,Universitaria,Obrero,Soltero
+8,41.28,63.12,469,6728,Bajo,Incendio,Norte,Secundaria,Agricultor,Viudo
+19,70.49,4.98,288,3255,Medio,Huracán,Centro,Primaria,Desempleado,Viudo
+16,59.83,90.39,218,4070,Bajo,Huracán,Centro,Secundaria,Obrero,Viudo
+16,45.97,90.94,446,8072,Medio,Huracán,Oeste,Universitaria,Empleado,Soltero
+19,7.59,78.02,392,8875,Medio,Inundación,Centro,Secundaria,Empleado,Soltero
+11,7.78,0.7,363,5515,Alto,Sequía,Sur,Primaria,Desempleado,Divorciado
+6,0.23,5.73,355,4431,Alto,Incendio,Norte,Sin educación,Obrero,Viudo
+1,96.77,22.52,79,2042,Bajo,Sequía,Norte,Primaria,Empleado,Divorciado
+2,0.53,13.13,239,6126,Medio,Sequía,Centro,Primaria,Desempleado,Casado
+16,10.31,39.88,406,8401,Bajo,Huracán,Este,Universitaria,Empleado,Divorciado
+4,31.46,92.26,74,291,Alto,Huracán,Este,Primaria,Empleado,Casado
+16,80.74,47.21,161,9195,Bajo,Huracán,Centro,Primaria,Empleado,Casado
+16,96.21,1.34,460,961,Bajo,Inundación,Sur,Universitaria,Comerciante,Divorciado
+16,79.0,28.27,484,6811,Alto,Sequía,Este,Universitaria,Obrero,Viudo
+1,69.06,4.46,255,9375,Medio,Sequía,Centro,Sin educación,Desempleado,Casado
+1,52.13,3.63,234,749,Bajo,Inundación,Sur,Secundaria,Desempleado,Viudo
+4,8.67,27.57,431,4234,Alto,Inundación,Sur,Primaria,Obrero,Soltero
+0,95.82,27.56,428,7687,Medio,Inundación,Oeste,Universitaria,Obrero,Casado
+0,75.84,78.71,96,8928,Alto,Sequía,Sur,Sin educación,Obrero,Soltero
+18,63.89,97.48,423,1136,Bajo,Sequía,Este,Secundaria,Obrero,Divorciado
+1,75.9,37.12,277,4231,Medio,Huracán,Este,Universitaria,Agricultor,Viudo
+11,72.41,42.89,88,2248,Medio,Huracán,Centro,Secundaria,Desempleado,Divorciado
+5,63.72,84.48,65,5557,Alto,Sequía,Centro,Secundaria,Agricultor,Casado
+3,98.06,26.81,71,6179,Alto,Huracán,Sur,Primaria,Empleado,Soltero
+10,90.34,15.64,262,2530,Alto,Inundación,Norte,Primaria,Empleado,Casado
+16,64.67,85.31,359,1979,Medio,Incendio,Oeste,Universitaria,Desempleado,Divorciado
+5,69.32,4.65,198,7642,Medio,Huracán,Norte,Secundaria,Empleado,Viudo
+4,5.16,61.97,290,2111,Bajo,Sequía,Sur,Universitaria,Obrero,Viudo
+19,66.99,56.2,321,3473,Medio,Huracán,Sur,Universitaria,Agricultor,Casado
+1,4.42,34.59,108,7457,Bajo,Huracán,Norte,Secundaria,Obrero,Casado
+5,58.83,31.52,336,1389,Alto,Huracán,Oeste,Universitaria,Empleado,Soltero
+10,99.94,77.19,475,1547,Alto,Incendio,Norte,Secundaria,Agricultor,Divorciado
+15,55.58,8.64,251,3299,Medio,Inundación,Centro,Secundaria,Obrero,Casado
+15,47.32,23.68,81,6481,Alto,Sequía,Este,Secundaria,Desempleado,Soltero
+0,31.29,73.24,492,7622,Alto,Incendio,Centro,Secundaria,Obrero,Casado
+8,12.05,54.83,211,6159,Medio,Sequía,Este,Sin educación,Empleado,Viudo
+5,73.1,12.8,304,3283,Bajo,Sequía,Sur,Secundaria,Agricultor,Soltero
+15,19.26,88.21,303,5562,Medio,Sequía,Oeste,Primaria,Desempleado,Soltero
+2,11.53,39.34,58,3316,Bajo,Incendio,Norte,Primaria,Agricultor,Casado
+19,42.18,82.79,188,3236,Medio,Inundación,Oeste,Primaria,Desempleado,Divorciado
+3,79.53,78.77,59,3418,Medio,Sequía,Norte,Secundaria,Agricultor,Viudo
+18,74.51,62.44,263,2882,Alto,Inundación,Centro,Primaria,Empleado,Divorciado
+2,5.49,49.45,322,9282,Medio,Inundación,Centro,Sin educación,Desempleado,Soltero
+18,45.51,97.96,373,7757,Medio,Huracán,Norte,Universitaria,Comerciante,Divorciado
+19,52.24,14.5,97,5020,Bajo,Incendio,Oeste,Secundaria,Agricultor,Soltero
+6,64.45,72.52,485,6424,Alto,Incendio,Norte,Primaria,Agricultor,Divorciado
+19,65.02,19.12,160,6427,Bajo,Huracán,Sur,Sin educación,Obrero,Casado
+8,36.47,33.83,202,8517,Bajo,Huracán,Centro,Universitaria,Desempleado,Divorciado
+0,56.07,30.87,172,876,Alto,Inundación,Sur,Sin educación,Comerciante,Soltero
+7,48.11,94.7,454,5308,Alto,Sequía,Centro,Primaria,Empleado,Viudo
+6,88.5,96.74,406,787,Alto,Incendio,Centro,Sin educación,Obrero,Viudo
+17,53.03,18.3,151,629,Medio,Sequía,Este,Universitaria,Comerciante,Viudo
+7,44.1,2.2,290,5167,Alto,Sequía,Sur,Primaria,Desempleado,Soltero
+0,40.45,72.0,370,8180,Alto,Huracán,Sur,Universitaria,Comerciante,Divorciado
+10,57.24,41.8,240,5618,Alto,Sequía,Este,Sin educación,Agricultor,Viudo
+17,80.4,8.88,266,2253,Bajo,Inundación,Oeste,Secundaria,Agricultor,Viudo
+9,53.84,68.38,100,9586,Bajo,Huracán,Sur,Secundaria,Obrero,Viudo
+2,66.17,54.51,341,6194,Medio,Sequía,Norte,Secundaria,Desempleado,Casado
+6,73.79,98.05,130,7074,Bajo,Huracán,Este,Secundaria,Desempleado,Soltero
+15,52.02,22.74,432,9818,Medio,Inundación,Sur,Universitaria,Comerciante,Soltero
+15,42.68,40.4,137,4874,Bajo,Inundación,Oeste,Secundaria,Obrero,Soltero
+19,87.67,54.25,243,7792,Alto,Sequía,Sur,Universitaria,Desempleado,Soltero
+16,41.75,79.17,153,3203,Bajo,Huracán,Centro,Primaria,Agricultor,Soltero
+1,46.19,54.88,320,2540,Medio,Sequía,Norte,Secundaria,Comerciante,Casado
+0,99.03,61.29,145,4235,Bajo,Sequía,Este,Universitaria,Empleado,Divorciado
+15,0.02,22.61,472,7224,Alto,Huracán,Centro,Secundaria,Agricultor,Casado
+11,18.55,84.69,428,5301,Medio,Sequía,Oeste,Secundaria,Obrero,Viudo
+4,38.4,42.86,247,944,Alto,Inundación,Centro,Secundaria,Desempleado,Casado
+4,93.26,14.1,50,546,Alto,Huracán,Centro,Universitaria,Agricultor,Soltero
+8,7.0,66.42,456,4015,Medio,Huracán,Oeste,Sin educación,Empleado,Casado
+8,0.95,21.61,427,3209,Alto,Huracán,Centro,Secundaria,Empleado,Soltero
+2,5.27,9.76,216,1334,Alto,Huracán,Este,Secundaria,Obrero,Casado
+18,8.85,86.2,175,6687,Bajo,Sequía,Sur,Primaria,Agricultor,Soltero
+15,3.76,46.02,362,326,Alto,Sequía,Centro,Sin educación,Comerciante,Viudo
+15,47.98,74.93,130,4243,Alto,Inundación,Este,Universitaria,Agricultor,Soltero
+2,58.08,29.06,467,7285,Alto,Incendio,Sur,Primaria,Empleado,Casado
+19,27.17,78.7,300,5658,Alto,Incendio,Sur,Secundaria,Obrero,Viudo
+0,39.83,11.19,218,286,Medio,Inundación,Centro,Primaria,Obrero,Casado
+19,9.17,35.6,122,2635,Bajo,Incendio,Este,Primaria,Comerciante,Viudo
+10,33.64,97.81,190,2032,Alto,Inundación,Centro,Secundaria,Obrero,Divorciado
+16,52.25,79.4,119,9140,Alto,Sequía,Oeste,Sin educación,Obrero,Divorciado
+7,73.23,49.73,311,2132,Medio,Huracán,Sur,Sin educación,Obrero,Divorciado
+3,0.33,33.98,389,1352,Alto,Huracán,Centro,Primaria,Obrero,Casado
+5,46.73,87.21,357,5609,Medio,Sequía,Sur,Secundaria,Obrero,Casado
+7,29.7,54.48,294,5174,Bajo,Huracán,Este,Universitaria,Empleado,Viudo
+19,85.28,75.84,52,1981,Bajo,Huracán,Norte,Primaria,Agricultor,Viudo
+2,71.56,75.41,386,369,Alto,Incendio,Centro,Universitaria,Desempleado,Viudo
+15,58.91,1.79,112,1730,Alto,Sequía,Centro,Primaria,Obrero,Viudo
+2,27.73,12.63,98,4505,Alto,Incendio,Sur,Primaria,Desempleado,Soltero
+17,91.03,65.96,125,6239,Medio,Incendio,Este,Secundaria,Desempleado,Divorciado
+13,4.51,16.16,417,1674,Alto,Huracán,Oeste,Secundaria,Empleado,Soltero
+17,10.95,25.55,224,1795,Alto,Huracán,Este,Universitaria,Obrero,Soltero
+1,39.16,94.66,158,3358,Bajo,Sequía,Centro,Universitaria,Desempleado,Soltero
+2,12.44,56.02,232,3362,Alto,Huracán,Oeste,Sin educación,Obrero,Soltero
+15,95.64,75.07,241,1545,Bajo,Huracán,Este,Secundaria,Comerciante,Divorciado
+8,79.8,55.8,114,6363,Alto,Sequía,Norte,Primaria,Comerciante,Soltero
+3,25.9,55.25,386,8511,Bajo,Huracán,Sur,Primaria,Comerciante,Viudo
+0,58.86,9.42,320,152,Alto,Incendio,Este,Sin educación,Desempleado,Casado
+3,98.23,34.37,149,5670,Bajo,Sequía,Este,Secundaria,Comerciante,Viudo
+0,88.42,28.24,81,7679,Medio,Huracán,Norte,Primaria,Empleado,Casado
+13,60.08,39.07,401,1766,Bajo,Inundación,Centro,Sin educación,Empleado,Viudo
+15,90.37,79.83,177,7001,Bajo,Sequía,Sur,Sin educación,Desempleado,Viudo
+19,98.92,37.19,451,2885,Bajo,Sequía,Este,Primaria,Obrero,Casado
+7,74.34,45.17,418,819,Alto,Inundación,Oeste,Primaria,Agricultor,Divorciado
+6,6.5,39.74,388,8697,Alto,Huracán,Este,Universitaria,Obrero,Soltero
+2,40.16,9.34,92,6955,Alto,Huracán,Sur,Secundaria,Obrero,Viudo
+16,83.78,44.11,421,2394,Medio,Sequía,Este,Universitaria,Obrero,Divorciado
+0,23.06,19.56,468,8363,Medio,Sequía,Norte,Sin educación,Obrero,Soltero
+15,83.06,18.67,127,9521,Bajo,Huracán,Este,Primaria,Agricultor,Divorciado
+11,12.03,9.4,363,9859,Medio,Huracán,Este,Universitaria,Comerciante,Divorciado
+18,4.69,35.67,338,4582,Bajo,Incendio,Oeste,Sin educación,Obrero,Soltero
+13,38.41,75.75,319,798,Bajo,Sequía,Norte,Secundaria,Empleado,Viudo
+5,3.67,27.64,211,7343,Bajo,Sequía,Norte,Primaria,Desempleado,Divorciado
+5,95.73,31.23,238,9118,Medio,Inundación,Este,Universitaria,Desempleado,Viudo
+12,82.62,64.27,296,6018,Alto,Incendio,Oeste,Secundaria,Empleado,Viudo
+18,80.08,19.58,437,448,Medio,Huracán,Este,Universitaria,Obrero,Viudo
+7,62.98,89.7,265,5474,Bajo,Incendio,Este,Sin educación,Agricultor,Soltero
+1,21.63,52.02,364,7969,Bajo,Huracán,Sur,Secundaria,Comerciante,Casado
+0,51.83,44.76,462,407,Medio,Huracán,Sur,Universitaria,Desempleado,Viudo
+14,59.73,55.78,388,3516,Bajo,Incendio,Oeste,Secundaria,Comerciante,Casado
+0,52.5,16.6,439,4920,Bajo,Sequía,Centro,Sin educación,Agricultor,Casado
+4,26.02,61.35,426,3658,Medio,Huracán,Sur,Secundaria,Desempleado,Divorciado
+15,51.52,36.31,482,4578,Medio,Incendio,Centro,Universitaria,Comerciante,Viudo
+18,49.12,89.72,217,6631,Medio,Inundación,Norte,Sin educación,Agricultor,Viudo
+3,99.63,16.89,388,4720,Bajo,Incendio,Sur,Primaria,Comerciante,Viudo
+2,89.74,50.71,242,3085,Bajo,Inundación,Sur,Universitaria,Obrero,Casado
+16,46.34,59.81,332,8212,Alto,Huracán,Oeste,Universitaria,Agricultor,Soltero
+16,62.29,3.34,385,8567,Alto,Incendio,Centro,Sin educación,Comerciante,Casado
+11,74.79,36.37,439,2647,Medio,Incendio,Sur,Sin educación,Obrero,Viudo
+13,3.49,73.26,62,436,Alto,Inundación,Sur,Primaria,Obrero,Viudo
+5,89.49,82.04,289,3079,Bajo,Incendio,Oeste,Universitaria,Agricultor,Viudo
+2,86.01,31.32,369,4068,Alto,Incendio,Oeste,Sin educación,Empleado,Casado
+8,45.74,79.86,495,1010,Bajo,Huracán,Centro,Primaria,Desempleado,Viudo
+4,39.12,96.78,196,2096,Medio,Incendio,Norte,Primaria,Agricultor,Divorciado
+16,27.3,85.69,253,3229,Medio,Sequía,Norte,Sin educación,Obrero,Viudo
+13,47.67,11.76,129,5547,Bajo,Inundación,Este,Universitaria,Obrero,Soltero
+2,4.44,73.97,428,6229,Alto,Incendio,Sur,Secundaria,Agricultor,Divorciado
+0,85.22,31.97,92,5950,Medio,Inundación,Centro,Secundaria,Empleado,Viudo
+19,3.54,98.84,138,4304,Medio,Inundación,Sur,Primaria,Desempleado,Divorciado
+0,32.91,48.54,197,7546,Alto,Inundación,Centro,Secundaria,Comerciante,Viudo
+2,93.16,12.24,144,8619,Alto,Incendio,Centro,Secundaria,Agricultor,Soltero
+17,73.52,72.52,477,414,Bajo,Incendio,Centro,Sin educación,Desempleado,Viudo
+9,28.14,32.3,200,1234,Alto,Inundación,Sur,Primaria,Desempleado,Divorciado
+2,25.26,99.71,51,4976,Alto,Sequía,Oeste,Universitaria,Obrero,Soltero
+7,0.51,97.98,425,8202,Alto,Inundación,Sur,Primaria,Comerciante,Casado
+13,69.57,65.61,71,9812,Bajo,Sequía,Centro,Sin educación,Agricultor,Soltero
+17,4.88,12.98,420,8447,Bajo,Inundación,Este,Secundaria,Obrero,Soltero
+14,53.26,68.69,362,5692,Medio,Huracán,Norte,Universitaria,Obrero,Soltero
+1,96.21,9.3,377,1824,Bajo,Inundación,Centro,Primaria,Empleado,Divorciado
+9,10.95,2.94,56,3443,Medio,Inundación,Este,Secundaria,Desempleado,Soltero
+1,89.45,82.3,255,986,Alto,Incendio,Oeste,Primaria,Agricultor,Viudo
+16,99.15,20.98,489,821,Medio,Sequía,Centro,Universitaria,Agricultor,Soltero
+7,6.15,37.9,424,7778,Medio,Huracán,Este,Primaria,Agricultor,Soltero
+0,88.29,97.35,163,9204,Alto,Sequía,Centro,Primaria,Obrero,Viudo
+8,51.61,33.68,321,3457,Medio,Huracán,Sur,Primaria,Empleado,Viudo
+10,90.65,29.65,132,970,Bajo,Inundación,Este,Secundaria,Comerciante,Casado
+15,57.13,91.82,228,6851,Bajo,Incendio,Sur,Universitaria,Obrero,Soltero
+6,66.21,11.07,259,597,Bajo,Incendio,Sur,Universitaria,Comerciante,Divorciado
+9,54.38,75.96,377,1856,Bajo,Sequía,Este,Secundaria,Empleado,Soltero
+2,86.45,98.81,173,1217,Medio,Incendio,Norte,Secundaria,Desempleado,Soltero
+17,73.39,90.13,162,2928,Medio,Sequía,Este,Secundaria,Agricultor,Viudo
+12,52.13,65.17,61,1747,Alto,Sequía,Norte,Sin educación,Comerciante,Casado
+6,86.82,31.41,175,7092,Medio,Huracán,Centro,Primaria,Obrero,Soltero
+3,24.53,25.43,102,6871,Medio,Sequía,Centro,Primaria,Comerciante,Divorciado
+12,15.73,81.93,380,242,Medio,Huracán,Este,Universitaria,Desempleado,Soltero
+19,16.04,87.98,438,2861,Alto,Incendio,Centro,Primaria,Agricultor,Divorciado
+0,33.4,52.54,332,3535,Bajo,Sequía,Oeste,Sin educación,Comerciante,Viudo
+7,23.87,24.43,189,6722,Medio,Sequía,Sur,Secundaria,Desempleado,Casado
+13,93.01,11.29,450,7169,Alto,Inundación,Sur,Universitaria,Obrero,Soltero
+15,10.58,8.72,439,4612,Alto,Sequía,Norte,Universitaria,Empleado,Casado
+13,69.9,71.91,146,1948,Alto,Sequía,Centro,Primaria,Obrero,Soltero
+11,18.92,42.01,54,2796,Bajo,Inundación,Norte,Universitaria,Agricultor,Divorciado
+18,88.16,90.54,106,1817,Medio,Inundación,Sur,Secundaria,Obrero,Casado
+14,96.13,73.97,461,3172,Alto,Incendio,Sur,Universitaria,Obrero,Soltero
+1,46.55,19.13,383,9359,Bajo,Sequía,Centro,Secundaria,Obrero,Viudo
+1,87.91,61.38,118,2886,Alto,Incendio,Oeste,Sin educación,Obrero,Divorciado
+18,0.51,43.55,167,3891,Alto,Incendio,Oeste,Sin educación,Agricultor,Casado
+16,81.99,57.72,425,9580,Alto,Inundación,Centro,Secundaria,Desempleado,Soltero
+19,22.86,73.81,108,3971,Alto,Huracán,Centro,Primaria,Comerciante,Casado
+9,90.87,80.62,82,1906,Alto,Incendio,Norte,Universitaria,Empleado,Soltero
+5,0.11,84.37,367,1604,Bajo,Huracán,Centro,Primaria,Comerciante,Divorciado
+14,55.62,25.4,99,3408,Medio,Sequía,Oeste,Universitaria,Comerciante,Viudo
+10,75.66,3.11,417,7217,Medio,Inundación,Centro,Sin educación,Empleado,Divorciado
+4,25.87,73.93,68,5148,Medio,Sequía,Norte,Sin educación,Agricultor,Casado
+0,19.31,10.63,263,8363,Medio,Sequía,Norte,Sin educación,Empleado,Casado
+7,8.41,31.49,246,1790,Bajo,Inundación,Norte,Universitaria,Agricultor,Soltero
+11,32.64,0.38,428,9636,Bajo,Sequía,Norte,Sin educación,Comerciante,Divorciado
+11,55.98,68.17,499,3403,Bajo,Inundación,Este,Sin educación,Agricultor,Soltero
+4,11.58,16.71,96,3213,Alto,Huracán,Centro,Sin educación,Desempleado,Divorciado
+6,37.67,65.53,216,9174,Alto,Sequía,Sur,Sin educación,Empleado,Casado
+3,0.91,99.17,338,7950,Alto,Inundación,Centro,Primaria,Desempleado,Soltero
+5,81.87,7.27,190,6516,Medio,Incendio,Este,Sin educación,Comerciante,Soltero
+12,12.84,7.71,133,1604,Alto,Sequía,Norte,Sin educación,Empleado,Divorciado
+19,28.33,34.04,231,9024,Medio,Huracán,Este,Primaria,Comerciante,Viudo
+14,1.84,86.64,440,4024,Alto,Inundación,Oeste,Primaria,Desempleado,Divorciado
+2,43.22,21.55,128,8715,Medio,Sequía,Oeste,Universitaria,Comerciante,Viudo
+7,84.01,36.04,264,9883,Alto,Sequía,Centro,Secundaria,Empleado,Divorciado
+19,39.22,6.85,63,4585,Alto,Sequía,Centro,Sin educación,Empleado,Casado
+15,17.95,76.32,264,8200,Bajo,Huracán,Sur,Sin educación,Comerciante,Soltero
+12,75.37,40.83,452,8784,Alto,Inundación,Sur,Sin educación,Empleado,Divorciado
+17,78.88,75.92,177,291,Alto,Incendio,Oeste,Universitaria,Empleado,Casado
+9,17.38,90.36,359,8790,Bajo,Incendio,Norte,Sin educación,Comerciante,Divorciado
+18,77.09,23.28,297,5017,Medio,Incendio,Este,Secundaria,Desempleado,Soltero
+16,94.73,80.74,453,5931,Bajo,Inundación,Sur,Primaria,Empleado,Divorciado
+18,16.64,5.91,78,9548,Bajo,Incendio,Sur,Universitaria,Empleado,Viudo
+4,77.1,89.88,329,4422,Medio,Huracán,Norte,Primaria,Empleado,Soltero
+8,70.86,65.08,387,7099,Alto,Inundación,Norte,Sin educación,Empleado,Viudo
+11,47.36,87.42,368,9108,Medio,Sequía,Centro,Sin educación,Comerciante,Casado
+0,5.79,0.02,251,7382,Alto,Huracán,Este,Sin educación,Desempleado,Casado
+0,7.47,16.91,410,9765,Alto,Sequía,Norte,Secundaria,Desempleado,Divorciado
+14,85.24,38.98,106,9378,Medio,Incendio,Sur,Secundaria,Agricultor,Viudo
+1,99.01,37.95,441,1974,Bajo,Huracán,Sur,Universitaria,Empleado,Viudo
+15,67.61,22.67,267,9162,Medio,Inundación,Oeste,Primaria,Empleado,Soltero
+7,44.6,38.16,111,4863,Alto,Huracán,Norte,Sin educación,Agricultor,Viudo
+12,64.76,12.88,206,8564,Medio,Sequía,Centro,Sin educación,Desempleado,Viudo
+0,59.44,41.28,251,9321,Medio,Inundación,Este,Sin educación,Obrero,Soltero
+15,38.36,80.24,66,1151,Alto,Huracán,Centro,Sin educación,Obrero,Soltero
+6,6.56,47.91,371,9865,Bajo,Huracán,Sur,Secundaria,Desempleado,Viudo
+4,82.15,1.8,55,7638,Medio,Huracán,Centro,Primaria,Empleado,Divorciado
+2,37.18,42.14,107,7511,Alto,Huracán,Sur,Primaria,Obrero,Soltero
+11,81.88,2.72,374,6420,Alto,Inundación,Sur,Universitaria,Comerciante,Soltero
+15,25.25,96.62,461,2205,Medio,Sequía,Sur,Secundaria,Comerciante,Viudo
+18,0.1,12.75,367,407,Bajo,Huracán,Sur,Sin educación,Agricultor,Viudo
+4,15.89,70.77,218,7837,Medio,Inundación,Sur,Primaria,Desempleado,Soltero
+13,46.85,97.28,131,3459,Bajo,Sequía,Oeste,Primaria,Desempleado,Viudo
+4,94.43,82.6,474,3276,Bajo,Huracán,Centro,Secundaria,Obrero,Soltero
+14,10.22,69.93,482,1351,Bajo,Sequía,Oeste,Universitaria,Empleado,Divorciado
+16,85.42,83.95,268,5466,Bajo,Sequía,Oeste,Universitaria,Desempleado,Divorciado
+13,52.7,98.18,226,1617,Medio,Inundación,Norte,Sin educación,Obrero,Soltero
+19,82.59,62.13,253,6326,Alto,Sequía,Norte,Universitaria,Obrero,Soltero
+4,29.84,55.92,120,5405,Alto,Inundación,Norte,Primaria,Desempleado,Casado
+11,83.99,62.82,436,9670,Alto,Huracán,Este,Universitaria,Obrero,Casado
+15,77.28,53.27,315,5969,Alto,Sequía,Norte,Sin educación,Agricultor,Viudo
+15,23.01,63.51,147,8139,Alto,Sequía,Centro,Primaria,Agricultor,Viudo
+6,13.13,44.98,394,4991,Alto,Incendio,Oeste,Universitaria,Desempleado,Soltero
+3,86.81,21.84,340,5092,Medio,Huracán,Centro,Universitaria,Empleado,Soltero
+0,96.32,12.02,257,2061,Bajo,Huracán,Norte,Secundaria,Agricultor,Casado
+4,3.13,6.83,51,2963,Alto,Incendio,Este,Sin educación,Agricultor,Casado
+9,73.13,26.33,173,6703,Medio,Incendio,Este,Universitaria,Desempleado,Soltero
+4,90.95,4.61,329,4667,Alto,Inundación,Oeste,Secundaria,Comerciante,Divorciado
+3,85.74,56.72,123,6613,Alto,Inundación,Centro,Primaria,Obrero,Divorciado
+1,96.45,28.38,215,4105,Bajo,Sequía,Sur,Secundaria,Agricultor,Viudo
+19,76.01,82.45,71,9214,Bajo,Sequía,Centro,Secundaria,Comerciante,Soltero
+9,44.23,7.42,203,283,Bajo,Sequía,Norte,Universitaria,Empleado,Soltero
+18,31.2,22.64,476,7855,Alto,Sequía,Sur,Universitaria,Comerciante,Viudo
+0,32.07,73.02,488,3458,Alto,Inundación,Este,Universitaria,Desempleado,Casado
+4,72.44,59.88,344,6715,Alto,Huracán,Oeste,Secundaria,Empleado,Casado
+12,74.58,6.45,268,9690,Bajo,Sequía,Oeste,Primaria,Empleado,Divorciado
+3,20.04,87.72,206,6897,Medio,Huracán,Este,Sin educación,Comerciante,Soltero
+15,86.81,87.73,279,8828,Alto,Sequía,Norte,Secundaria,Desempleado,Casado
+15,71.49,33.04,69,7778,Alto,Incendio,Este,Universitaria,Agricultor,Divorciado
+1,56.28,34.04,90,5798,Alto,Sequía,Norte,Sin educación,Comerciante,Divorciado
+16,47.15,98.9,487,1373,Medio,Sequía,Sur,Primaria,Agricultor,Divorciado
+19,54.32,62.62,197,6753,Alto,Sequía,Este,Sin educación,Comerciante,Casado
+11,15.92,53.13,157,1196,Medio,Inundación,Norte,Universitaria,Agricultor,Casado
+17,20.37,83.82,452,9597,Alto,Incendio,Sur,Secundaria,Comerciante,Soltero
+2,9.12,28.53,133,9207,Medio,Sequía,Este,Secundaria,Empleado,Soltero
+0,15.37,42.92,416,8102,Alto,Sequía,Oeste,Universitaria,Obrero,Divorciado
+0,45.37,26.78,371,4347,Bajo,Huracán,Este,Secundaria,Empleado,Divorciado
+18,53.04,78.92,463,9320,Bajo,Incendio,Centro,Universitaria,Agricultor,Casado
+10,1.79,57.33,358,5414,Bajo,Sequía,Este,Secundaria,Desempleado,Casado
+4,79.68,65.88,339,3454,Bajo,Huracán,Centro,Secundaria,Empleado,Soltero
+11,29.42,25.23,455,370,Alto,Huracán,Sur,Secundaria,Obrero,Soltero
+2,91.18,22.02,372,1286,Bajo,Inundación,Este,Primaria,Agricultor,Viudo
+0,96.75,48.84,183,6405,Medio,Huracán,Sur,Primaria,Empleado,Soltero
+0,18.55,73.76,256,2498,Bajo,Sequía,Sur,Universitaria,Comerciante,Casado
+7,46.21,52.52,332,7095,Bajo,Inundación,Norte,Primaria,Desempleado,Divorciado
+9,0.12,3.26,315,7399,Bajo,Inundación,Sur,Universitaria,Agricultor,Viudo
+10,59.83,86.86,122,4282,Alto,Sequía,Sur,Sin educación,Empleado,Soltero
+11,60.73,6.47,401,2330,Bajo,Incendio,Este,Sin educación,Agricultor,Soltero
+12,24.75,95.58,97,6611,Medio,Huracán,Este,Primaria,Comerciante,Casado
+11,55.84,2.51,375,228,Bajo,Inundación,Oeste,Sin educación,Obrero,Viudo
+13,22.55,69.45,282,9561,Bajo,Incendio,Norte,Sin educación,Empleado,Soltero
+1,16.08,8.22,492,3772,Bajo,Sequía,Sur,Secundaria,Agricultor,Divorciado
+18,65.15,91.07,149,9893,Medio,Huracán,Norte,Secundaria,Agricultor,Casado
+17,32.59,46.44,108,4865,Bajo,Huracán,Centro,Universitaria,Agricultor,Viudo
+2,59.03,13.75,307,4070,Medio,Inundación,Sur,Sin educación,Obrero,Soltero
+16,43.32,34.08,462,7645,Medio,Huracán,Norte,Universitaria,Agricultor,Soltero
+7,98.44,16.48,114,5652,Bajo,Huracán,Oeste,Universitaria,Desempleado,Viudo
+9,14.96,17.06,132,727,Medio,Huracán,Oeste,Sin educación,Desempleado,Casado
+1,46.46,94.81,203,6689,Alto,Huracán,Sur,Primaria,Agricultor,Viudo
+18,68.05,44.52,315,2144,Bajo,Sequía,Centro,Sin educación,Desempleado,Viudo
+8,39.55,78.88,358,2441,Bajo,Incendio,Oeste,Secundaria,Empleado,Casado
+6,97.47,63.96,128,5984,Medio,Sequía,Oeste,Sin educación,Desempleado,Soltero
+3,72.19,67.64,364,8285,Medio,Sequía,Centro,Primaria,Agricultor,Divorciado
+17,65.7,13.17,199,349,Bajo,Inundación,Norte,Universitaria,Comerciante,Casado
+12,75.71,23.42,484,3025,Alto,Huracán,Oeste,Universitaria,Empleado,Divorciado
+10,95.26,78.68,97,5143,Medio,Sequía,Este,Secundaria,Obrero,Soltero
+3,90.78,97.08,454,1074,Medio,Huracán,Oeste,Secundaria,Agricultor,Viudo
+3,72.43,26.27,428,9617,Alto,Sequía,Norte,Secundaria,Obrero,Divorciado
+9,74.92,27.16,297,7292,Alto,Sequía,Norte,Universitaria,Comerciante,Soltero
+4,14.59,47.29,327,9275,Bajo,Inundación,Sur,Secundaria,Obrero,Soltero
+8,10.28,98.38,405,9180,Alto,Incendio,Este,Sin educación,Agricultor,Viudo
+2,57.09,26.9,147,2772,Bajo,Incendio,Norte,Universitaria,Agricultor,Viudo
+16,1.84,40.7,463,7379,Alto,Sequía,Centro,Primaria,Comerciante,Soltero
+2,48.24,89.15,74,7631,Medio,Inundación,Este,Universitaria,Agricultor,Soltero
+15,21.03,0.29,333,9618,Bajo,Huracán,Este,Sin educación,Comerciante,Divorciado
+3,34.6,3.98,498,8762,Bajo,Huracán,Centro,Sin educación,Comerciante,Soltero
+17,77.58,60.41,418,2087,Bajo,Sequía,Oeste,Secundaria,Agricultor,Soltero
+16,94.12,90.74,350,190,Alto,Incendio,Centro,Universitaria,Desempleado,Divorciado
+6,7.24,23.89,117,8821,Medio,Inundación,Centro,Universitaria,Comerciante,Casado
+4,53.42,46.96,56,4159,Bajo,Incendio,Oeste,Universitaria,Agricultor,Divorciado
+11,88.25,45.05,354,2873,Bajo,Huracán,Oeste,Primaria,Desempleado,Divorciado
+16,8.25,47.3,186,9978,Bajo,Incendio,Oeste,Secundaria,Comerciante,Viudo
+12,82.45,62.25,213,8483,Bajo,Huracán,Oeste,Sin educación,Desempleado,Divorciado
+2,35.78,46.97,132,7509,Medio,Inundación,Oeste,Sin educación,Empleado,Soltero
+8,32.21,44.75,434,4540,Alto,Inundación,Centro,Secundaria,Empleado,Soltero
+16,97.75,47.43,187,7447,Medio,Sequía,Sur,Sin educación,Desempleado,Soltero
+16,20.09,59.09,469,1108,Bajo,Sequía,Sur,Sin educación,Comerciante,Casado
+19,69.32,53.7,122,3883,Medio,Incendio,Norte,Secundaria,Agricultor,Soltero
+15,82.14,85.41,286,6746,Bajo,Inundación,Sur,Sin educación,Obrero,Casado
+12,4.12,4.95,95,4398,Alto,Inundación,Sur,Universitaria,Agricultor,Soltero
+18,67.04,83.33,155,4768,Alto,Sequía,Centro,Primaria,Obrero,Divorciado
+16,95.15,84.39,465,4387,Alto,Huracán,Oeste,Secundaria,Obrero,Viudo
+3,12.42,28.49,337,2152,Bajo,Incendio,Oeste,Primaria,Comerciante,Soltero
+11,89.62,46.29,311,6109,Medio,Incendio,Centro,Sin educación,Desempleado,Casado
+8,59.48,43.85,225,1816,Alto,Sequía,Sur,Sin educación,Agricultor,Casado
+18,61.66,21.85,215,410,Bajo,Inundación,Centro,Universitaria,Desempleado,Viudo
+11,61.29,39.68,194,4638,Bajo,Sequía,Norte,Secundaria,Empleado,Soltero
+8,29.88,4.44,379,1360,Medio,Sequía,Oeste,Sin educación,Comerciante,Divorciado
+6,93.52,27.78,419,4032,Alto,Sequía,Este,Secundaria,Comerciante,Soltero
+13,94.74,81.67,332,684,Bajo,Sequía,Norte,Secundaria,Empleado,Soltero
+19,62.53,28.46,103,7716,Medio,Huracán,Norte,Secundaria,Agricultor,Viudo
+18,78.34,81.82,227,8651,Alto,Huracán,Centro,Secundaria,Empleado,Soltero
+14,61.23,53.16,468,2966,Medio,Inundación,Sur,Secundaria,Agricultor,Divorciado
+15,48.44,87.99,293,5998,Medio,Sequía,Oeste,Primaria,Obrero,Casado
+4,66.08,57.48,390,2111,Bajo,Huracán,Este,Universitaria,Comerciante,Viudo
+2,55.3,2.97,176,6351,Bajo,Inundación,Norte,Secundaria,Agricultor,Divorciado
+11,59.75,67.54,458,5039,Bajo,Sequía,Este,Primaria,Desempleado,Casado
+19,78.38,4.49,461,4106,Medio,Incendio,Sur,Sin educación,Desempleado,Viudo
+3,48.09,45.06,416,1725,Bajo,Huracán,Sur,Secundaria,Comerciante,Viudo
+15,4.08,92.94,320,990,Medio,Inundación,Este,Sin educación,Empleado,Casado
+6,16.4,16.52,181,6178,Medio,Incendio,Oeste,Secundaria,Empleado,Casado
+12,43.86,38.99,142,7136,Bajo,Sequía,Sur,Primaria,Agricultor,Divorciado
+9,72.48,72.99,428,9023,Alto,Sequía,Este,Primaria,Empleado,Soltero
+6,59.33,88.23,122,4061,Alto,Sequía,Norte,Primaria,Comerciante,Soltero
+13,65.03,67.09,460,2604,Alto,Huracán,Este,Universitaria,Agricultor,Soltero
+4,47.93,25.82,459,8906,Medio,Inundación,Este,Sin educación,Obrero,Soltero
+2,61.57,67.46,452,3906,Medio,Incendio,Centro,Universitaria,Empleado,Soltero
+10,32.9,29.67,297,6200,Medio,Inundación,Sur,Secundaria,Empleado,Divorciado
+10,47.02,71.84,397,1819,Bajo,Huracán,Oeste,Sin educación,Agricultor,Viudo
+17,74.43,95.4,322,6786,Medio,Inundación,Oeste,Primaria,Desempleado,Divorciado
+14,87.18,72.14,92,1687,Bajo,Huracán,Centro,Sin educación,Empleado,Divorciado
+11,43.37,86.29,426,7100,Bajo,Sequía,Oeste,Primaria,Comerciante,Divorciado
+8,4.37,0.21,90,9903,Alto,Incendio,Este,Universitaria,Empleado,Viudo
+9,16.17,71.76,219,996,Alto,Sequía,Centro,Universitaria,Obrero,Divorciado
+11,2.09,82.96,483,5658,Alto,Inundación,Norte,Primaria,Empleado,Divorciado
+16,65.33,4.06,261,8569,Bajo,Sequía,Sur,Primaria,Desempleado,Viudo
+5,33.23,87.16,217,4747,Bajo,Incendio,Sur,Secundaria,Empleado,Divorciado
+6,54.25,25.67,88,9928,Bajo,Sequía,Sur,Universitaria,Agricultor,Soltero
+13,49.33,66.53,418,2532,Medio,Incendio,Este,Universitaria,Empleado,Casado
+12,8.15,80.04,294,4004,Bajo,Incendio,Norte,Secundaria,Desempleado,Divorciado
+7,40.33,66.27,200,6937,Alto,Sequía,Centro,Universitaria,Agricultor,Casado
+9,22.06,9.23,160,1549,Alto,Huracán,Centro,Primaria,Comerciante,Divorciado
+8,41.84,59.63,485,4600,Bajo,Inundación,Sur,Sin educación,Agricultor,Divorciado
+17,20.36,54.96,96,5554,Bajo,Huracán,Norte,Sin educación,Obrero,Soltero
+1,84.05,90.03,112,9524,Alto,Huracán,Norte,Universitaria,Agricultor,Viudo
+4,17.42,40.42,274,4217,Bajo,Sequía,Norte,Secundaria,Comerciante,Casado
+4,96.08,32.11,415,8969,Alto,Inundación,Oeste,Primaria,Empleado,Viudo
+5,41.59,74.99,118,2128,Medio,Inundación,Oeste,Sin educación,Agricultor,Soltero
+18,84.62,41.27,348,6945,Alto,Huracán,Sur,Primaria,Agricultor,Soltero
+7,62.88,64.61,481,3858,Medio,Sequía,Norte,Universitaria,Agricultor,Casado
+15,73.54,64.65,339,6004,Bajo,Inundación,Norte,Universitaria,Agricultor,Viudo
+12,76.77,88.8,345,4724,Bajo,Huracán,Centro,Sin educación,Comerciante,Soltero
+0,50.48,59.87,252,8948,Medio,Inundación,Centro,Universitaria,Desempleado,Divorciado
+19,54.33,50.22,110,265,Bajo,Sequía,Sur,Secundaria,Desempleado,Divorciado
+16,51.4,13.89,483,4691,Medio,Sequía,Norte,Universitaria,Agricultor,Divorciado
+6,58.81,11.57,367,689,Bajo,Sequía,Sur,Universitaria,Comerciante,Viudo
+12,2.94,15.43,363,4624,Alto,Inundación,Centro,Universitaria,Comerciante,Divorciado
+3,39.55,17.18,210,2921,Bajo,Incendio,Centro,Primaria,Agricultor,Divorciado
+3,60.62,63.79,380,6609,Alto,Inundación,Oeste,Primaria,Obrero,Soltero
+5,59.77,74.1,65,7793,Alto,Incendio,Sur,Sin educación,Agricultor,Soltero
+18,79.3,53.0,387,9554,Medio,Sequía,Sur,Sin educación,Obrero,Divorciado
+11,65.5,82.9,143,171,Bajo,Huracán,Norte,Sin educación,Agricultor,Divorciado
+6,99.21,99.13,353,3680,Medio,Incendio,Norte,Universitaria,Obrero,Soltero
+9,28.39,82.0,187,8062,Bajo,Sequía,Oeste,Primaria,Obrero,Casado
+18,35.92,69.49,387,368,Alto,Sequía,Este,Secundaria,Agricultor,Viudo
+6,38.38,53.25,87,2562,Alto,Incendio,Este,Universitaria,Obrero,Viudo
+2,46.58,44.89,176,9560,Bajo,Huracán,Este,Universitaria,Empleado,Soltero
+12,83.6,8.44,324,1115,Bajo,Sequía,Sur,Universitaria,Desempleado,Viudo
+12,23.58,39.94,213,9375,Medio,Incendio,Sur,Secundaria,Comerciante,Soltero
+17,77.6,91.01,492,8084,Bajo,Huracán,Centro,Sin educación,Obrero,Soltero
+19,40.53,80.8,368,506,Bajo,Huracán,Sur,Secundaria,Obrero,Soltero
+7,60.19,21.61,126,7484,Bajo,Sequía,Sur,Sin educación,Comerciante,Soltero
+8,63.25,46.66,223,6149,Medio,Inundación,Sur,Secundaria,Obrero,Casado
+6,37.28,81.67,436,6269,Bajo,Inundación,Oeste,Primaria,Comerciante,Divorciado
+0,51.26,6.74,407,8082,Alto,Sequía,Sur,Universitaria,Agricultor,Divorciado
+2,41.3,38.74,370,1085,Medio,Huracán,Norte,Universitaria,Empleado,Casado
+12,6.91,85.18,425,4585,Medio,Sequía,Norte,Universitaria,Empleado,Viudo
+16,43.72,40.39,140,9001,Alto,Incendio,Centro,Sin educación,Desempleado,Viudo
+0,9.74,7.76,287,2718,Alto,Inundación,Oeste,Secundaria,Obrero,Divorciado
+5,40.5,54.25,313,6389,Alto,Incendio,Norte,Primaria,Desempleado,Viudo
+5,59.29,86.17,228,9703,Bajo,Sequía,Oeste,Secundaria,Agricultor,Divorciado
+11,57.94,59.03,258,7028,Alto,Sequía,Oeste,Universitaria,Empleado,Divorciado
+12,66.26,22.63,122,5468,Bajo,Huracán,Centro,Primaria,Agricultor,Casado
+12,9.53,38.42,439,4721,Medio,Huracán,Oeste,Primaria,Agricultor,Viudo
+14,65.21,45.01,156,9777,Medio,Huracán,Sur,Universitaria,Obrero,Casado
+15,31.21,57.93,394,7666,Alto,Incendio,Oeste,Secundaria,Agricultor,Divorciado
+10,39.9,75.94,344,4770,Bajo,Huracán,Centro,Universitaria,Empleado,Divorciado
+4,85.8,9.89,418,7758,Alto,Sequía,Centro,Secundaria,Desempleado,Divorciado
+3,0.9,88.97,493,1103,Alto,Huracán,Centro,Primaria,Empleado,Soltero
+2,58.84,1.23,333,7604,Bajo,Inundación,Norte,Primaria,Obrero,Soltero
+18,59.87,37.01,402,2566,Alto,Huracán,Sur,Universitaria,Empleado,Soltero
+19,39.67,2.74,231,2039,Medio,Incendio,Norte,Primaria,Comerciante,Casado
+17,23.7,39.3,86,1735,Alto,Inundación,Este,Sin educación,Desempleado,Divorciado
+14,23.47,52.58,186,9990,Bajo,Inundación,Sur,Primaria,Comerciante,Viudo
+8,88.37,51.17,387,8195,Bajo,Inundación,Oeste,Sin educación,Comerciante,Casado
+16,44.2,16.56,105,6365,Medio,Incendio,Centro,Primaria,Obrero,Casado
+13,33.09,64.57,236,1995,Bajo,Sequía,Este,Universitaria,Agricultor,Casado
+14,44.88,4.48,390,6624,Bajo,Huracán,Sur,Universitaria,Comerciante,Viudo
+0,66.94,76.19,307,1173,Medio,Inundación,Norte,Sin educación,Empleado,Divorciado
+2,14.58,94.66,494,5284,Alto,Inundación,Centro,Universitaria,Agricultor,Soltero
+15,44.94,33.98,107,2502,Medio,Inundación,Norte,Primaria,Empleado,Divorciado
+10,58.79,51.72,412,4995,Alto,Sequía,Sur,Primaria,Empleado,Divorciado
+11,94.86,37.89,172,7431,Medio,Sequía,Sur,Universitaria,Agricultor,Casado
+9,25.25,0.67,237,9443,Alto,Incendio,Este,Primaria,Agricultor,Casado
+15,35.93,38.59,279,2056,Medio,Sequía,Oeste,Secundaria,Empleado,Casado
+7,37.94,79.17,217,7123,Alto,Huracán,Norte,Secundaria,Obrero,Soltero
+5,60.55,59.6,469,4007,Medio,Incendio,Este,Primaria,Desempleado,Soltero
+11,35.67,10.13,163,907,Alto,Incendio,Centro,Universitaria,Desempleado,Soltero
+7,53.35,84.71,301,8478,Medio,Huracán,Oeste,Sin educación,Obrero,Divorciado
+3,78.18,53.11,156,4927,Bajo,Huracán,Este,Universitaria,Agricultor,Casado
+7,70.54,84.17,86,4624,Alto,Huracán,Norte,Sin educación,Empleado,Viudo
+17,44.64,58.02,384,9599,Medio,Incendio,Sur,Universitaria,Desempleado,Divorciado
+4,86.42,55.97,141,2384,Alto,Incendio,Centro,Primaria,Empleado,Soltero
+8,55.81,10.53,67,5413,Alto,Incendio,Norte,Secundaria,Obrero,Viudo
+3,53.99,16.74,403,857,Medio,Huracán,Oeste,Universitaria,Empleado,Viudo
+16,3.42,97.2,112,4987,Alto,Huracán,Oeste,Sin educación,Obrero,Casado
+8,98.67,22.85,199,3954,Medio,Inundación,Sur,Secundaria,Agricultor,Viudo
+0,12.3,97.75,188,3658,Bajo,Sequía,Sur,Sin educación,Obrero,Soltero
+19,23.11,53.19,235,9872,Alto,Inundación,Centro,Primaria,Obrero,Casado
+12,5.17,13.58,234,1061,Bajo,Huracán,Centro,Secundaria,Desempleado,Viudo
+15,64.0,9.93,254,3947,Alto,Incendio,Sur,Sin educación,Empleado,Casado
+12,22.47,20.89,309,6826,Alto,Huracán,Sur,Universitaria,Desempleado,Viudo
+13,18.0,92.56,263,3675,Alto,Sequía,Oeste,Primaria,Comerciante,Divorciado
+2,8.86,41.42,305,9167,Medio,Inundación,Sur,Primaria,Obrero,Divorciado
+5,10.33,39.54,184,2518,Bajo,Inundación,Este,Primaria,Comerciante,Soltero
+17,58.47,31.32,110,4298,Alto,Incendio,Norte,Universitaria,Desempleado,Divorciado
+18,68.82,14.71,412,1101,Medio,Inundación,Sur,Universitaria,Empleado,Divorciado
+4,39.74,48.79,359,5344,Alto,Inundación,Centro,Secundaria,Desempleado,Divorciado
+14,47.99,13.0,137,7219,Medio,Huracán,Este,Universitaria,Empleado,Viudo
+1,68.6,83.55,373,4166,Alto,Inundación,Centro,Secundaria,Empleado,Viudo
+9,1.74,37.04,256,2945,Bajo,Inundación,Este,Primaria,Agricultor,Casado
+17,32.31,37.48,178,9773,Bajo,Inundación,Sur,Secundaria,Obrero,Viudo
+12,97.31,47.4,360,8949,Alto,Incendio,Norte,Sin educación,Desempleado,Divorciado
+4,58.01,44.41,52,5416,Medio,Incendio,Centro,Primaria,Empleado,Viudo
+0,25.42,99.49,471,522,Alto,Huracán,Este,Primaria,Desempleado,Soltero
+0,52.17,54.54,291,6815,Medio,Inundación,Oeste,Secundaria,Desempleado,Casado
+17,34.27,8.82,170,4366,Alto,Incendio,Sur,Primaria,Empleado,Casado
+14,53.22,60.69,434,7649,Medio,Incendio,Norte,Universitaria,Comerciante,Viudo
+16,12.57,15.16,151,6416,Bajo,Huracán,Sur,Sin educación,Obrero,Divorciado
+10,13.27,3.09,87,2810,Alto,Sequía,Oeste,Secundaria,Obrero,Casado
+16,14.35,97.07,390,8744,Bajo,Inundación,Norte,Secundaria,Agricultor,Soltero
+12,93.98,77.35,462,8169,Bajo,Incendio,Oeste,Primaria,Agricultor,Soltero
+0,73.29,98.01,182,1757,Alto,Huracán,Sur,Universitaria,Agricultor,Casado
+1,16.24,47.79,251,2641,Alto,Huracán,Este,Primaria,Obrero,Divorciado
+8,18.83,53.23,397,6863,Medio,Huracán,Sur,Primaria,Comerciante,Divorciado
+2,73.08,16.83,70,3175,Medio,Incendio,Sur,Secundaria,Obrero,Viudo
+0,15.62,24.69,291,3264,Bajo,Inundación,Sur,Primaria,Obrero,Viudo
+15,23.46,83.85,158,2153,Medio,Sequía,Centro,Sin educación,Obrero,Casado
+5,96.33,35.62,352,8579,Medio,Inundación,Oeste,Primaria,Obrero,Viudo
+16,25.53,82.68,133,5837,Alto,Huracán,Oeste,Primaria,Comerciante,Viudo
+4,66.16,70.9,132,3317,Medio,Huracán,Oeste,Secundaria,Agricultor,Viudo
+4,97.86,17.72,340,1547,Bajo,Sequía,Centro,Primaria,Desempleado,Soltero
+5,37.43,50.74,118,6109,Medio,Inundación,Este,Universitaria,Agricultor,Viudo
+2,1.75,67.74,178,707,Bajo,Huracán,Sur,Secundaria,Agricultor,Casado
+4,24.41,23.5,245,4652,Alto,Huracán,Este,Primaria,Desempleado,Divorciado
+4,83.09,83.07,189,1864,Bajo,Inundación,Centro,Sin educación,Obrero,Viudo
+9,86.46,54.48,493,9517,Medio,Huracán,Oeste,Sin educación,Comerciante,Divorciado
+9,76.85,16.52,332,9527,Alto,Inundación,Sur,Secundaria,Comerciante,Viudo
+18,11.31,58.3,361,9321,Medio,Huracán,Norte,Secundaria,Agricultor,Casado
+16,79.55,99.97,283,2771,Alto,Inundación,Norte,Primaria,Desempleado,Soltero
+13,91.87,15.05,72,6619,Alto,Sequía,Este,Universitaria,Empleado,Casado
+8,60.06,81.68,202,4062,Medio,Huracán,Oeste,Primaria,Obrero,Soltero
+13,94.09,20.73,326,3277,Medio,Sequía,Norte,Sin educación,Agricultor,Viudo
+0,82.68,78.24,110,3822,Alto,Huracán,Este,Universitaria,Comerciante,Viudo
+18,66.7,73.46,368,5006,Alto,Huracán,Centro,Universitaria,Desempleado,Soltero
+12,57.72,30.05,427,7363,Medio,Incendio,Este,Universitaria,Desempleado,Casado
+12,34.86,32.58,101,5154,Bajo,Inundación,Este,Primaria,Agricultor,Casado
+3,15.93,79.25,393,9767,Medio,Sequía,Este,Sin educación,Empleado,Soltero
+0,60.5,46.14,202,908,Alto,Sequía,Sur,Secundaria,Comerciante,Viudo
+16,31.81,73.08,286,9270,Medio,Sequía,Este,Primaria,Agricultor,Soltero
+7,86.64,14.8,360,825,Bajo,Inundación,Este,Secundaria,Empleado,Viudo
+1,99.33,85.26,351,7801,Medio,Incendio,Sur,Universitaria,Desempleado,Soltero
+7,75.24,71.09,81,1316,Alto,Sequía,Sur,Universitaria,Obrero,Viudo
+6,9.05,90.69,104,4151,Medio,Inundación,Centro,Primaria,Comerciante,Soltero
+1,28.87,13.24,401,2297,Alto,Huracán,Oeste,Sin educación,Comerciante,Divorciado
+2,10.91,59.3,438,2906,Alto,Sequía,Norte,Universitaria,Empleado,Viudo
+17,65.05,59.91,85,9070,Medio,Sequía,Norte,Secundaria,Agricultor,Casado
+11,76.52,35.35,159,1072,Alto,Incendio,Este,Secundaria,Desempleado,Soltero
+0,92.57,45.85,226,5734,Alto,Sequía,Centro,Primaria,Empleado,Casado
+11,43.82,3.8,411,7583,Bajo,Sequía,Este,Secundaria,Obrero,Soltero
+4,90.14,74.59,363,2223,Bajo,Huracán,Norte,Sin educación,Obrero,Casado
+16,87.79,54.93,344,8890,Bajo,Inundación,Sur,Universitaria,Obrero,Casado
+15,31.72,5.77,385,324,Bajo,Inundación,Oeste,Secundaria,Empleado,Soltero
+14,86.89,68.08,146,9132,Alto,Incendio,Centro,Secundaria,Desempleado,Soltero
+14,37.57,46.68,418,1914,Medio,Huracán,Sur,Universitaria,Comerciante,Casado
+4,29.69,3.45,262,1206,Alto,Inundación,Oeste,Primaria,Agricultor,Casado
+13,64.91,96.96,366,224,Alto,Huracán,Centro,Secundaria,Comerciante,Casado
+1,32.84,94.91,186,3346,Alto,Inundación,Centro,Primaria,Desempleado,Viudo
+10,63.02,51.29,55,3031,Medio,Huracán,Norte,Primaria,Comerciante,Viudo
+18,60.98,9.37,158,3071,Bajo,Incendio,Sur,Secundaria,Empleado,Divorciado
+6,56.34,75.46,84,2117,Alto,Sequía,Centro,Sin educación,Obrero,Viudo
+5,38.04,49.19,88,7515,Alto,Incendio,Centro,Primaria,Desempleado,Viudo
+1,54.85,30.24,199,2515,Bajo,Inundación,Oeste,Secundaria,Desempleado,Soltero
+5,59.65,49.14,474,3196,Alto,Incendio,Norte,Primaria,Comerciante,Divorciado
+17,54.57,52.24,167,1709,Medio,Sequía,Este,Universitaria,Empleado,Divorciado
+1,44.44,56.27,310,817,Alto,Incendio,Norte,Sin educación,Comerciante,Viudo
+17,1.47,44.12,475,3661,Alto,Inundación,Este,Sin educación,Comerciante,Soltero
+14,58.71,60.58,136,9308,Bajo,Inundación,Sur,Universitaria,Desempleado,Soltero
+18,16.84,91.87,125,6882,Alto,Incendio,Sur,Universitaria,Comerciante,Divorciado
+1,64.26,36.23,463,1148,Alto,Sequía,Centro,Primaria,Obrero,Soltero
+19,75.93,72.57,362,9649,Medio,Incendio,Sur,Universitaria,Comerciante,Casado
+5,50.04,89.45,432,8407,Bajo,Sequía,Centro,Sin educación,Obrero,Viudo
+0,54.24,45.6,263,8005,Bajo,Huracán,Norte,Universitaria,Desempleado,Casado
+14,95.15,44.35,334,5678,Medio,Sequía,Sur,Secundaria,Empleado,Divorciado
+9,84.72,60.21,288,1720,Alto,Huracán,Norte,Secundaria,Obrero,Divorciado
+18,91.42,59.14,214,6648,Bajo,Incendio,Norte,Primaria,Empleado,Soltero
+16,81.38,80.66,136,7481,Bajo,Sequía,Sur,Sin educación,Empleado,Soltero
+4,10.89,47.65,190,4880,Alto,Huracán,Norte,Secundaria,Obrero,Divorciado
+3,14.9,99.61,209,3892,Alto,Huracán,Sur,Universitaria,Desempleado,Divorciado
+9,52.66,5.95,95,3041,Bajo,Huracán,Sur,Secundaria,Agricultor,Casado
+16,24.61,0.32,421,5795,Alto,Inundación,Sur,Secundaria,Empleado,Casado
+9,47.67,64.02,161,6501,Bajo,Incendio,Este,Primaria,Empleado,Soltero
+16,39.44,29.84,456,9269,Alto,Huracán,Norte,Universitaria,Desempleado,Casado
+19,54.94,24.04,94,6297,Alto,Sequía,Oeste,Universitaria,Desempleado,Soltero
+4,74.69,31.19,450,5550,Medio,Huracán,Sur,Universitaria,Comerciante,Soltero
+1,71.55,25.6,296,9075,Alto,Inundación,Norte,Primaria,Desempleado,Viudo
+5,52.12,3.08,153,8532,Medio,Incendio,Centro,Universitaria,Empleado,Soltero
+1,82.24,97.15,134,5974,Alto,Inundación,Sur,Universitaria,Obrero,Casado
+12,43.09,22.07,499,1653,Bajo,Inundación,Sur,Secundaria,Agricultor,Divorciado
+10,89.67,73.4,183,1112,Bajo,Inundación,Oeste,Secundaria,Comerciante,Divorciado
+10,7.13,76.26,157,8478,Alto,Sequía,Este,Universitaria,Obrero,Casado
+15,95.47,92.93,67,1981,Alto,Incendio,Este,Sin educación,Agricultor,Divorciado
+10,65.47,3.05,143,6899,Bajo,Incendio,Sur,Sin educación,Agricultor,Soltero
+18,38.01,87.2,199,4686,Alto,Sequía,Norte,Universitaria,Agricultor,Divorciado
+14,19.72,52.72,295,8722,Medio,Incendio,Centro,Sin educación,Obrero,Casado
+15,47.92,63.25,338,8530,Medio,Inundación,Centro,Primaria,Comerciante,Divorciado
+10,19.46,64.45,463,6547,Medio,Incendio,Norte,Secundaria,Comerciante,Soltero
+15,16.63,81.98,258,2445,Medio,Sequía,Sur,Primaria,Agricultor,Soltero
+7,61.74,33.34,175,175,Medio,Inundación,Centro,Secundaria,Obrero,Casado
+3,52.31,73.31,284,9648,Alto,Sequía,Este,Sin educación,Agricultor,Casado
+7,67.01,52.86,465,5977,Alto,Huracán,Norte,Sin educación,Desempleado,Casado
+3,92.96,79.34,475,6885,Medio,Inundación,Oeste,Universitaria,Comerciante,Viudo
+2,53.23,99.05,171,5022,Alto,Inundación,Sur,Sin educación,Empleado,Viudo
+2,58.09,20.07,187,8190,Alto,Incendio,Norte,Sin educación,Agricultor,Soltero
+17,8.96,99.46,164,2430,Medio,Inundación,Centro,Universitaria,Desempleado,Viudo
+18,71.76,8.98,469,4786,Alto,Sequía,Sur,Universitaria,Comerciante,Viudo
+18,39.99,0.23,211,2002,Alto,Incendio,Este,Secundaria,Obrero,Divorciado
+4,97.67,4.42,250,4770,Alto,Huracán,Sur,Sin educación,Comerciante,Viudo
+17,82.32,34.18,283,7243,Medio,Sequía,Sur,Secundaria,Obrero,Divorciado
+9,52.25,63.29,77,2159,Alto,Huracán,Este,Secundaria,Obrero,Casado
+5,12.32,6.9,60,240,Bajo,Huracán,Este,Primaria,Agricultor,Divorciado
+0,85.94,0.57,255,1889,Bajo,Huracán,Sur,Sin educación,Agricultor,Divorciado
+4,79.98,93.71,216,116,Medio,Inundación,Este,Sin educación,Comerciante,Casado
+8,18.46,82.19,296,564,Bajo,Sequía,Norte,Primaria,Desempleado,Casado
+11,29.53,80.92,96,4571,Medio,Sequía,Este,Secundaria,Comerciante,Soltero
+13,79.34,88.44,295,1927,Bajo,Inundación,Este,Sin educación,Empleado,Soltero
+1,18.52,70.0,176,8811,Bajo,Incendio,Sur,Secundaria,Obrero,Soltero
+16,91.78,10.44,196,6056,Bajo,Huracán,Norte,Primaria,Obrero,Soltero
+13,42.45,39.91,167,189,Medio,Sequía,Oeste,Universitaria,Agricultor,Divorciado
+12,8.7,72.31,448,4915,Medio,Inundación,Oeste,Secundaria,Desempleado,Divorciado
+8,81.57,28.03,431,2951,Alto,Huracán,Centro,Sin educación,Agricultor,Soltero
+14,37.35,68.74,461,2943,Medio,Incendio,Este,Universitaria,Empleado,Viudo
+14,52.65,2.45,201,9217,Bajo,Incendio,Este,Secundaria,Comerciante,Soltero
+10,11.23,30.61,121,6643,Bajo,Huracán,Norte,Secundaria,Comerciante,Viudo
+15,0.26,54.91,412,6001,Medio,Incendio,Oeste,Universitaria,Desempleado,Casado
+16,63.8,63.21,186,1069,Medio,Sequía,Centro,Universitaria,Agricultor,Divorciado
+3,51.52,57.7,224,1194,Medio,Sequía,Norte,Universitaria,Agricultor,Divorciado
+0,59.35,69.78,338,6224,Alto,Sequía,Este,Sin educación,Empleado,Viudo
+7,79.37,0.61,495,7447,Bajo,Incendio,Oeste,Sin educación,Comerciante,Soltero
+16,64.66,10.09,68,3295,Alto,Sequía,Centro,Secundaria,Agricultor,Divorciado
+2,17.48,86.89,244,1504,Alto,Inundación,Sur,Secundaria,Desempleado,Viudo
+19,36.08,68.17,379,7040,Bajo,Sequía,Oeste,Primaria,Comerciante,Casado
+14,90.59,11.29,473,4390,Bajo,Sequía,Centro,Sin educación,Empleado,Casado
+14,76.99,84.21,224,4082,Medio,Incendio,Norte,Secundaria,Desempleado,Divorciado
+13,55.66,24.22,498,5655,Medio,Sequía,Sur,Universitaria,Obrero,Soltero
+13,25.56,47.83,462,8054,Alto,Huracán,Centro,Universitaria,Empleado,Viudo
+1,30.21,14.52,483,4813,Medio,Inundación,Centro,Sin educación,Desempleado,Divorciado
+12,73.2,71.01,403,3192,Medio,Incendio,Este,Universitaria,Agricultor,Casado
+13,85.12,66.69,190,4259,Bajo,Inundación,Oeste,Primaria,Obrero,Soltero
+18,67.14,21.11,295,6408,Bajo,Huracán,Este,Secundaria,Empleado,Viudo
+6,80.95,86.34,434,7578,Medio,Incendio,Sur,Secundaria,Agricultor,Divorciado
+2,76.67,40.13,467,8576,Bajo,Incendio,Centro,Secundaria,Obrero,Viudo
+14,14.97,29.25,142,5033,Medio,Sequía,Este,Sin educación,Comerciante,Soltero
+13,42.39,15.23,481,5026,Bajo,Inundación,Oeste,Universitaria,Agricultor,Soltero
+10,15.3,26.62,288,9479,Bajo,Huracán,Sur,Primaria,Desempleado,Casado
+14,23.52,2.2,254,4069,Bajo,Huracán,Norte,Sin educación,Empleado,Soltero
+12,86.93,58.33,97,3065,Bajo,Incendio,Este,Secundaria,Obrero,Divorciado
+17,47.29,84.22,482,4419,Medio,Sequía,Sur,Primaria,Agricultor,Viudo
+5,53.54,54.9,294,9075,Alto,Incendio,Norte,Secundaria,Comerciante,Soltero
+2,17.84,21.93,369,7208,Bajo,Incendio,Este,Secundaria,Empleado,Soltero
+18,31.23,3.37,366,9241,Medio,Incendio,Sur,Sin educación,Empleado,Divorciado
+14,23.02,21.46,462,4039,Medio,Incendio,Sur,Secundaria,Agricultor,Viudo
+4,20.62,41.61,344,144,Bajo,Huracán,Este,Primaria,Comerciante,Viudo
+9,63.8,75.96,177,1910,Alto,Huracán,Sur,Secundaria,Obrero,Casado
+6,25.69,18.78,393,4666,Bajo,Incendio,Centro,Universitaria,Agricultor,Casado
+16,63.2,71.98,331,9121,Medio,Incendio,Este,Secundaria,Obrero,Viudo
+6,5.85,86.69,66,2009,Alto,Sequía,Sur,Sin educación,Empleado,Divorciado
+11,14.18,45.39,120,6464,Medio,Incendio,Norte,Primaria,Obrero,Divorciado
+16,27.45,82.14,318,2681,Bajo,Huracán,Norte,Sin educación,Comerciante,Casado
+12,59.7,55.47,374,791,Alto,Inundación,Centro,Universitaria,Desempleado,Soltero
+19,67.58,63.71,331,1031,Medio,Huracán,Este,Secundaria,Comerciante,Divorciado
+3,44.27,52.63,354,8010,Medio,Sequía,Sur,Sin educación,Obrero,Soltero
+9,44.58,46.32,56,6482,Medio,Huracán,Sur,Sin educación,Agricultor,Divorciado
+2,72.45,23.47,363,3506,Bajo,Inundación,Norte,Sin educación,Empleado,Viudo
+8,1.58,30.32,354,8439,Alto,Incendio,Centro,Sin educación,Desempleado,Casado
+12,34.11,29.0,152,1132,Bajo,Inundación,Norte,Universitaria,Agricultor,Soltero
+17,81.87,56.33,358,1411,Bajo,Incendio,Norte,Universitaria,Agricultor,Soltero
+14,60.32,12.0,242,8679,Bajo,Incendio,Centro,Secundaria,Comerciante,Viudo
+3,33.72,91.68,290,3221,Alto,Huracán,Este,Secundaria,Obrero,Divorciado
+14,90.55,72.07,111,1973,Bajo,Huracán,Sur,Primaria,Comerciante,Soltero
+1,77.26,40.14,66,9207,Bajo,Huracán,Este,Universitaria,Obrero,Divorciado
+14,26.49,15.86,220,6881,Bajo,Sequía,Oeste,Sin educación,Comerciante,Viudo
+7,64.53,88.2,74,3848,Bajo,Huracán,Oeste,Sin educación,Agricultor,Casado
+7,59.58,82.38,300,377,Medio,Sequía,Oeste,Primaria,Empleado,Soltero
+16,40.12,72.17,302,1959,Bajo,Huracán,Centro,Sin educación,Obrero,Divorciado
+11,36.7,27.15,436,6029,Medio,Incendio,Norte,Primaria,Desempleado,Soltero
+18,34.36,40.24,256,6892,Bajo,Sequía,Este,Secundaria,Desempleado,Divorciado
+9,61.72,10.27,78,4813,Alto,Inundación,Sur,Universitaria,Agricultor,Divorciado
+8,44.24,18.9,166,4775,Medio,Sequía,Oeste,Primaria,Comerciante,Divorciado
+4,83.19,78.3,465,1270,Medio,Sequía,Este,Sin educación,Comerciante,Viudo
+5,66.96,71.5,331,8781,Medio,Inundación,Oeste,Primaria,Agricultor,Casado
+19,6.99,59.35,429,9474,Medio,Sequía,Oeste,Secundaria,Desempleado,Soltero
+1,64.02,89.57,193,5408,Alto,Incendio,Sur,Sin educación,Desempleado,Casado
+12,27.11,58.33,74,2562,Bajo,Huracán,Centro,Secundaria,Comerciante,Divorciado
+5,59.28,46.7,359,9922,Medio,Inundación,Norte,Secundaria,Obrero,Divorciado
+4,68.01,34.04,205,387,Alto,Huracán,Centro,Primaria,Empleado,Casado
+0,23.08,94.04,122,6053,Medio,Incendio,Este,Secundaria,Obrero,Casado
+5,45.69,8.27,169,4382,Bajo,Inundación,Centro,Sin educación,Desempleado,Soltero
+5,19.03,93.09,361,2007,Medio,Huracán,Este,Secundaria,Obrero,Divorciado
+15,5.23,82.67,370,1261,Alto,Huracán,Este,Secundaria,Empleado,Casado
+3,37.85,12.99,142,229,Bajo,Incendio,Norte,Primaria,Obrero,Viudo
+10,36.29,56.5,135,6437,Alto,Huracán,Sur,Secundaria,Obrero,Divorciado
+8,99.55,86.65,385,2463,Bajo,Incendio,Norte,Universitaria,Obrero,Divorciado
+2,44.64,57.18,474,8251,Bajo,Sequía,Centro,Primaria,Obrero,Soltero
+18,33.36,90.72,413,6083,Bajo,Incendio,Este,Primaria,Agricultor,Viudo
+7,58.05,94.3,484,243,Medio,Sequía,Oeste,Sin educación,Desempleado,Soltero
+4,8.88,42.24,167,8307,Alto,Inundación,Oeste,Sin educación,Empleado,Viudo
+3,96.17,37.73,282,7569,Alto,Huracán,Este,Sin educación,Desempleado,Soltero
+5,63.5,93.63,248,344,Alto,Incendio,Norte,Sin educación,Agricultor,Viudo
+1,75.48,67.51,255,1026,Bajo,Incendio,Sur,Universitaria,Agricultor,Viudo
+19,17.05,11.6,462,3278,Medio,Huracán,Norte,Primaria,Agricultor,Viudo
+10,40.95,4.23,388,2276,Bajo,Huracán,Este,Secundaria,Agricultor,Casado
+3,42.27,56.46,196,5102,Alto,Inundación,Este,Sin educación,Obrero,Divorciado
+14,82.18,93.02,499,986,Medio,Inundación,Sur,Sin educación,Desempleado,Viudo
+5,0.12,84.42,474,8632,Medio,Incendio,Centro,Sin educación,Comerciante,Casado
+16,30.09,67.58,478,3498,Medio,Inundación,Centro,Secundaria,Empleado,Casado
+5,98.12,13.91,320,8597,Alto,Sequía,Sur,Sin educación,Agricultor,Soltero
+18,47.49,25.42,436,9199,Medio,Inundación,Centro,Secundaria,Desempleado,Divorciado
+1,38.25,87.55,188,2754,Medio,Inundación,Oeste,Primaria,Agricultor,Divorciado
+14,11.98,18.28,230,7492,Bajo,Incendio,Centro,Primaria,Agricultor,Soltero
+10,97.42,27.84,479,1471,Bajo,Sequía,Centro,Primaria,Agricultor,Divorciado
+7,2.0,12.96,79,7235,Medio,Inundación,Centro,Universitaria,Agricultor,Soltero
+18,73.72,67.61,106,420,Medio,Sequía,Oeste,Secundaria,Agricultor,Casado
+12,76.86,94.4,281,4754,Bajo,Sequía,Centro,Sin educación,Empleado,Casado
+11,24.37,26.9,195,5400,Bajo,Sequía,Oeste,Sin educación,Desempleado,Viudo
+4,67.16,47.54,484,6861,Bajo,Huracán,Sur,Sin educación,Agricultor,Soltero
+5,9.29,63.43,433,6954,Alto,Huracán,Norte,Sin educación,Agricultor,Casado
+3,25.7,99.95,97,5605,Alto,Huracán,Sur,Universitaria,Agricultor,Casado
+18,78.79,10.48,243,9423,Bajo,Huracán,Norte,Sin educación,Agricultor,Soltero
+19,86.47,49.86,273,6653,Medio,Incendio,Sur,Universitaria,Obrero,Casado
+0,60.85,38.51,185,4142,Bajo,Inundación,Norte,Secundaria,Obrero,Divorciado
+19,50.68,86.58,71,9109,Alto,Huracán,Norte,Primaria,Comerciante,Casado
+16,15.93,47.6,55,7598,Medio,Incendio,Este,Sin educación,Agricultor,Soltero
+11,6.31,11.1,253,6736,Alto,Inundación,Norte,Primaria,Comerciante,Divorciado
+14,11.76,63.44,288,7462,Medio,Huracán,Norte,Secundaria,Empleado,Divorciado
+0,22.74,77.08,234,111,Alto,Inundación,Este,Secundaria,Comerciante,Casado
+13,34.17,0.29,409,294,Medio,Huracán,Centro,Sin educación,Desempleado,Viudo
+5,38.09,85.9,341,2637,Medio,Incendio,Centro,Secundaria,Obrero,Divorciado
+4,34.63,18.6,384,2942,Medio,Sequía,Este,Primaria,Obrero,Soltero
+10,23.91,55.21,269,2329,Medio,Sequía,Oeste,Sin educación,Agricultor,Viudo
+3,50.97,41.58,165,3109,Alto,Inundación,Norte,Universitaria,Agricultor,Viudo
+12,82.53,71.97,362,8084,Alto,Incendio,Norte,Sin educación,Empleado,Divorciado
+10,27.97,37.12,98,2177,Medio,Sequía,Este,Primaria,Empleado,Casado
+2,94.24,86.98,222,7945,Medio,Huracán,Este,Sin educación,Desempleado,Viudo
+0,87.33,73.05,131,3967,Alto,Sequía,Oeste,Sin educación,Agricultor,Casado
+5,16.18,64.77,371,4973,Medio,Inundación,Centro,Primaria,Agricultor,Divorciado
+17,78.63,79.62,382,8735,Medio,Inundación,Sur,Sin educación,Empleado,Soltero
+9,57.46,75.4,94,397,Medio,Incendio,Centro,Sin educación,Empleado,Viudo
+4,56.66,3.59,384,5956,Bajo,Inundación,Norte,Primaria,Empleado,Soltero
+9,39.1,39.47,69,9136,Medio,Sequía,Este,Secundaria,Obrero,Casado
+11,50.12,93.08,497,1115,Bajo,Sequía,Oeste,Primaria,Comerciante,Casado
+1,39.72,12.57,270,1484,Medio,Sequía,Centro,Sin educación,Comerciante,Soltero
+12,53.97,73.71,172,9689,Alto,Sequía,Oeste,Universitaria,Agricultor,Divorciado
+7,62.8,97.46,283,8845,Bajo,Incendio,Centro,Universitaria,Obrero,Divorciado
+1,67.43,5.22,270,2450,Bajo,Huracán,Norte,Primaria,Empleado,Viudo
+19,53.25,68.22,372,1369,Medio,Huracán,Sur,Universitaria,Agricultor,Viudo
+0,72.14,46.82,388,1360,Medio,Incendio,Oeste,Sin educación,Obrero,Divorciado
+4,14.13,57.92,52,7801,Bajo,Inundación,Oeste,Sin educación,Desempleado,Divorciado
+8,21.2,8.53,231,8476,Alto,Huracán,Sur,Primaria,Obrero,Soltero
+16,81.87,4.3,255,4663,Alto,Inundación,Oeste,Sin educación,Agricultor,Casado
+8,32.25,66.69,369,6997,Medio,Huracán,Oeste,Secundaria,Comerciante,Casado
+10,2.29,82.33,89,5772,Alto,Inundación,Centro,Sin educación,Empleado,Viudo
+14,15.38,78.2,108,5693,Alto,Incendio,Centro,Primaria,Desempleado,Divorciado
+5,22.36,54.38,488,6255,Medio,Sequía,Sur,Secundaria,Obrero,Soltero
+2,95.73,9.99,111,5643,Alto,Inundación,Norte,Secundaria,Agricultor,Viudo
+16,57.3,68.8,181,7340,Medio,Sequía,Oeste,Universitaria,Agricultor,Soltero
+4,93.27,24.19,109,4783,Bajo,Inundación,Norte,Sin educación,Empleado,Divorciado
+11,57.52,91.11,421,1981,Medio,Inundación,Sur,Primaria,Agricultor,Divorciado
+17,47.94,83.83,380,8813,Bajo,Inundación,Sur,Universitaria,Agricultor,Divorciado
+13,31.37,70.94,171,3909,Bajo,Inundación,Centro,Universitaria,Empleado,Casado
+10,60.64,94.88,156,5907,Alto,Inundación,Oeste,Sin educación,Desempleado,Divorciado
+8,13.92,3.14,145,4983,Alto,Sequía,Este,Sin educación,Comerciante,Viudo
+1,89.83,73.62,396,7306,Alto,Inundación,Sur,Primaria,Comerciante,Casado
+11,82.93,33.02,463,4255,Medio,Sequía,Oeste,Universitaria,Obrero,Soltero
+2,31.75,90.61,284,4773,Alto,Incendio,Norte,Primaria,Desempleado,Viudo
+2,95.28,26.67,435,1509,Bajo,Huracán,Centro,Universitaria,Obrero,Viudo
+0,82.52,72.49,111,9986,Alto,Inundación,Norte,Universitaria,Comerciante,Soltero
+7,66.63,87.76,305,5297,Alto,Huracán,Sur,Universitaria,Empleado,Casado
+7,12.18,4.17,98,7552,Medio,Sequía,Sur,Sin educación,Agricultor,Viudo
+10,47.82,39.76,442,8818,Medio,Incendio,Norte,Universitaria,Comerciante,Viudo
+8,50.61,76.23,397,2272,Bajo,Incendio,Sur,Universitaria,Desempleado,Viudo
+4,23.26,45.49,208,379,Medio,Incendio,Oeste,Universitaria,Comerciante,Casado
+13,8.0,26.73,173,4077,Alto,Huracán,Sur,Secundaria,Desempleado,Casado
+2,77.67,21.98,366,2769,Medio,Sequía,Centro,Sin educación,Desempleado,Casado
+4,12.2,13.15,256,7925,Bajo,Inundación,Oeste,Secundaria,Desempleado,Viudo
+4,59.43,85.71,97,4081,Alto,Inundación,Este,Sin educación,Obrero,Divorciado
+18,93.64,57.54,458,4869,Bajo,Sequía,Sur,Primaria,Empleado,Soltero
+13,87.61,7.64,469,5347,Medio,Huracán,Sur,Secundaria,Comerciante,Divorciado
+3,27.78,38.26,185,4527,Medio,Inundación,Centro,Primaria,Empleado,Casado
+12,85.14,36.77,250,6235,Bajo,Sequía,Centro,Universitaria,Agricultor,Viudo
+9,0.03,18.17,299,5673,Alto,Inundación,Norte,Primaria,Comerciante,Viudo
+17,1.77,43.55,363,4231,Medio,Incendio,Norte,Primaria,Empleado,Divorciado
+7,60.26,33.21,406,7289,Medio,Inundación,Norte,Primaria,Empleado,Divorciado
+7,36.48,34.18,417,4635,Alto,Huracán,Centro,Primaria,Agricultor,Soltero
+6,38.65,73.9,478,2876,Medio,Sequía,Norte,Sin educación,Desempleado,Viudo
+7,56.44,22.33,367,9411,Bajo,Huracán,Norte,Secundaria,Comerciante,Divorciado
+13,19.18,64.19,344,7797,Medio,Sequía,Este,Sin educación,Comerciante,Soltero
+18,21.18,57.06,363,8486,Medio,Incendio,Norte,Sin educación,Agricultor,Casado
+5,48.46,56.81,258,762,Alto,Sequía,Sur,Sin educación,Desempleado,Divorciado
+0,75.43,66.3,404,8771,Bajo,Inundación,Centro,Primaria,Comerciante,Casado
+14,61.95,54.84,260,8144,Alto,Inundación,Oeste,Sin educación,Comerciante,Soltero
+0,29.74,87.93,241,4318,Medio,Incendio,Este,Secundaria,Comerciante,Casado
+16,43.03,67.56,93,9715,Medio,Sequía,Centro,Sin educación,Desempleado,Viudo
+0,17.07,54.7,78,5160,Alto,Incendio,Centro,Universitaria,Agricultor,Viudo
+14,7.46,82.98,108,5974,Alto,Inundación,Sur,Primaria,Comerciante,Casado
+1,78.27,60.61,120,5681,Alto,Huracán,Norte,Universitaria,Empleado,Viudo
+13,26.54,29.11,141,2114,Bajo,Incendio,Sur,Secundaria,Desempleado,Soltero
+7,17.78,20.71,314,3889,Medio,Huracán,Norte,Secundaria,Obrero,Viudo
+7,69.16,15.23,432,9203,Alto,Huracán,Norte,Secundaria,Agricultor,Casado
+18,61.81,89.95,269,7248,Medio,Sequía,Centro,Secundaria,Empleado,Casado
+6,63.32,71.01,439,7866,Bajo,Incendio,Norte,Sin educación,Comerciante,Casado
+18,22.89,93.74,462,2464,Bajo,Huracán,Este,Primaria,Obrero,Divorciado
+5,23.26,60.33,491,3729,Bajo,Huracán,Este,Secundaria,Agricultor,Casado
+5,22.08,47.34,450,6019,Bajo,Sequía,Este,Universitaria,Desempleado,Soltero
+2,17.38,5.97,449,5775,Medio,Sequía,Centro,Secundaria,Obrero,Viudo
+6,65.57,67.16,264,8972,Bajo,Inundación,Sur,Primaria,Obrero,Viudo
+18,84.8,58.22,436,6738,Bajo,Huracán,Oeste,Universitaria,Empleado,Divorciado
+7,72.43,99.02,326,4751,Alto,Inundación,Norte,Universitaria,Agricultor,Divorciado
+9,79.21,23.92,113,709,Bajo,Huracán,Oeste,Universitaria,Empleado,Soltero
+19,40.48,53.07,395,8040,Alto,Inundación,Sur,Sin educación,Empleado,Casado
+14,65.41,65.1,341,3966,Bajo,Sequía,Sur,Secundaria,Comerciante,Divorciado
+14,35.42,64.46,294,471,Bajo,Incendio,Centro,Sin educación,Desempleado,Viudo
+0,52.55,56.13,111,7098,Alto,Sequía,Este,Universitaria,Obrero,Divorciado
+19,48.16,77.69,475,715,Bajo,Inundación,Este,Sin educación,Agricultor,Divorciado
+6,17.69,20.5,381,7011,Medio,Inundación,Sur,Sin educación,Desempleado,Casado
+3,38.71,72.56,219,6110,Medio,Incendio,Centro,Sin educación,Desempleado,Divorciado
+5,96.38,61.97,494,2353,Bajo,Huracán,Centro,Secundaria,Agricultor,Soltero
+0,24.86,89.61,318,5042,Medio,Inundación,Norte,Universitaria,Desempleado,Viudo
+4,13.38,84.72,316,964,Alto,Inundación,Este,Universitaria,Comerciante,Casado
+0,41.86,31.51,103,1368,Bajo,Inundación,Sur,Secundaria,Desempleado,Viudo
+3,79.03,27.62,65,7554,Bajo,Incendio,Oeste,Sin educación,Comerciante,Soltero
+1,58.21,98.17,57,9076,Alto,Sequía,Este,Sin educación,Obrero,Soltero
+9,68.1,52.73,153,4671,Alto,Inundación,Norte,Primaria,Obrero,Divorciado
+4,18.97,90.64,108,5329,Alto,Incendio,Centro,Primaria,Empleado,Divorciado
+9,61.89,16.39,362,2337,Bajo,Inundación,Sur,Primaria,Comerciante,Divorciado
+0,32.35,64.28,89,4154,Alto,Huracán,Este,Secundaria,Obrero,Viudo
+5,83.43,80.99,286,1035,Alto,Incendio,Oeste,Universitaria,Desempleado,Soltero
+12,62.93,94.74,492,6494,Medio,Inundación,Norte,Primaria,Agricultor,Casado
+14,19.89,33.73,435,7991,Medio,Incendio,Norte,Universitaria,Agricultor,Divorciado
+3,6.46,72.5,143,425,Bajo,Inundación,Este,Universitaria,Comerciante,Viudo
+12,4.26,53.88,271,9826,Medio,Sequía,Oeste,Universitaria,Empleado,Divorciado
+19,37.14,6.06,253,7874,Medio,Inundación,Norte,Secundaria,Desempleado,Soltero
+14,26.59,69.0,187,3961,Alto,Incendio,Sur,Secundaria,Comerciante,Casado
+7,64.61,69.01,349,2085,Alto,Huracán,Norte,Secundaria,Agricultor,Soltero
+4,49.93,93.06,444,5032,Medio,Huracán,Oeste,Secundaria,Comerciante,Viudo
+14,26.6,49.73,256,4703,Medio,Huracán,Centro,Primaria,Desempleado,Divorciado
+3,14.92,23.03,385,2878,Medio,Inundación,Centro,Sin educación,Obrero,Soltero
+11,12.72,4.46,130,9562,Bajo,Sequía,Este,Sin educación,Desempleado,Viudo
+12,86.47,41.56,267,8932,Bajo,Inundación,Oeste,Sin educación,Obrero,Divorciado
+1,24.35,30.19,51,7854,Bajo,Huracán,Norte,Primaria,Obrero,Casado
+18,65.17,76.11,227,4178,Medio,Incendio,Norte,Sin educación,Obrero,Soltero
+18,81.07,35.43,445,1467,Medio,Huracán,Centro,Primaria,Comerciante,Divorciado
+3,61.41,94.91,420,4142,Bajo,Incendio,Centro,Primaria,Agricultor,Divorciado
+3,85.96,96.23,395,2675,Bajo,Sequía,Sur,Primaria,Comerciante,Divorciado
+10,39.24,62.09,328,6854,Medio,Incendio,Centro,Sin educación,Agricultor,Divorciado
+4,95.62,92.87,195,1681,Alto,Inundación,Sur,Universitaria,Desempleado,Soltero
+19,13.31,76.09,367,2086,Bajo,Inundación,Norte,Sin educación,Empleado,Divorciado
+10,10.21,54.69,273,2340,Medio,Inundación,Sur,Sin educación,Desempleado,Viudo
+9,65.87,18.03,418,4066,Medio,Incendio,Sur,Secundaria,Comerciante,Soltero
+7,94.28,45.86,433,7704,Alto,Inundación,Este,Primaria,Comerciante,Divorciado
+5,80.89,56.09,111,8420,Medio,Inundación,Centro,Universitaria,Agricultor,Soltero
+5,7.64,86.4,343,6068,Medio,Inundación,Sur,Secundaria,Comerciante,Viudo
+7,27.94,48.13,288,9143,Bajo,Sequía,Norte,Universitaria,Obrero,Viudo
+14,93.03,89.77,244,7593,Bajo,Incendio,Oeste,Universitaria,Comerciante,Soltero
+13,25.31,67.43,215,4203,Alto,Incendio,Sur,Primaria,Agricultor,Divorciado
+10,78.12,13.7,271,2176,Alto,Huracán,Centro,Sin educación,Agricultor,Divorciado
+11,82.51,99.5,110,5331,Medio,Incendio,Este,Primaria,Obrero,Viudo
+12,49.55,52.72,178,3094,Bajo,Sequía,Norte,Primaria,Agricultor,Divorciado
+7,38.63,39.19,222,3844,Alto,Incendio,Este,Secundaria,Empleado,Viudo
+17,45.01,65.91,205,5694,Alto,Sequía,Oeste,Primaria,Desempleado,Divorciado
+0,22.7,10.89,454,7631,Alto,Sequía,Sur,Sin educación,Comerciante,Viudo
+14,88.94,63.65,427,7471,Medio,Incendio,Sur,Universitaria,Empleado,Casado
+7,45.06,49.82,159,1744,Bajo,Huracán,Centro,Primaria,Comerciante,Divorciado
+10,88.25,40.67,318,3244,Alto,Inundación,Sur,Universitaria,Empleado,Divorciado
+11,10.57,95.3,460,342,Bajo,Inundación,Norte,Primaria,Comerciante,Divorciado
+11,98.83,52.25,405,4185,Alto,Incendio,Oeste,Universitaria,Obrero,Soltero
+3,44.33,21.91,440,8054,Alto,Incendio,Este,Primaria,Agricultor,Divorciado
+15,4.78,45.9,327,7369,Bajo,Sequía,Oeste,Secundaria,Agricultor,Soltero
+3,3.8,91.94,123,7230,Bajo,Incendio,Sur,Universitaria,Obrero,Soltero
+4,74.62,17.61,486,6928,Bajo,Sequía,Este,Primaria,Empleado,Viudo
+4,65.9,21.4,256,8462,Medio,Huracán,Centro,Primaria,Desempleado,Soltero
+7,80.21,1.3,437,8944,Alto,Incendio,Oeste,Secundaria,Empleado,Soltero
+9,10.54,1.42,328,6431,Medio,Inundación,Este,Secundaria,Agricultor,Casado
+16,3.56,82.94,424,3612,Bajo,Inundación,Este,Secundaria,Desempleado,Divorciado
+8,50.86,73.21,375,1599,Alto,Incendio,Este,Universitaria,Comerciante,Soltero
+18,38.76,35.5,389,2258,Medio,Sequía,Norte,Universitaria,Desempleado,Divorciado
+13,46.19,69.83,406,5262,Alto,Inundación,Oeste,Secundaria,Empleado,Soltero
+7,99.16,39.52,389,4139,Medio,Sequía,Este,Sin educación,Obrero,Viudo
+8,97.07,95.29,253,2135,Bajo,Incendio,Oeste,Sin educación,Comerciante,Casado
+10,94.23,96.71,210,8077,Medio,Incendio,Este,Primaria,Empleado,Soltero
+0,78.38,39.28,77,957,Alto,Inundación,Centro,Sin educación,Comerciante,Divorciado
+13,35.48,85.42,441,3923,Alto,Incendio,Centro,Primaria,Desempleado,Viudo
+4,41.21,77.31,306,6870,Alto,Huracán,Centro,Universitaria,Agricultor,Divorciado
+13,54.96,31.0,214,9341,Alto,Huracán,Sur,Universitaria,Empleado,Viudo
+3,83.05,23.2,112,398,Bajo,Inundación,Este,Sin educación,Obrero,Casado
+0,6.87,45.82,71,7344,Medio,Huracán,Sur,Universitaria,Desempleado,Viudo
+18,42.43,78.13,119,1023,Bajo,Sequía,Oeste,Secundaria,Empleado,Divorciado
+7,8.26,96.02,430,4332,Bajo,Inundación,Sur,Secundaria,Obrero,Divorciado
+14,51.47,76.36,454,4406,Bajo,Inundación,Oeste,Sin educación,Empleado,Soltero
+14,89.89,85.52,145,2899,Alto,Sequía,Oeste,Sin educación,Desempleado,Viudo
+8,78.25,60.31,212,6678,Alto,Huracán,Oeste,Primaria,Empleado,Divorciado
+8,22.78,83.54,128,4975,Alto,Huracán,Sur,Universitaria,Comerciante,Soltero
+9,97.6,78.44,54,5426,Medio,Huracán,Este,Primaria,Desempleado,Casado
+19,66.74,37.7,365,6682,Alto,Inundación,Sur,Primaria,Empleado,Divorciado
+8,1.04,55.2,169,1902,Medio,Inundación,Este,Secundaria,Agricultor,Soltero
+2,25.54,80.48,351,2757,Alto,Huracán,Este,Secundaria,Empleado,Divorciado
+19,26.07,4.61,227,3446,Alto,Incendio,Oeste,Secundaria,Comerciante,Viudo
+10,6.93,80.81,225,9763,Bajo,Huracán,Sur,Secundaria,Obrero,Soltero
+5,95.98,17.79,439,3049,Bajo,Sequía,Este,Primaria,Obrero,Viudo
+1,47.83,51.47,266,1041,Bajo,Inundación,Centro,Secundaria,Obrero,Casado
